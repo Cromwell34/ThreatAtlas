@@ -1,0 +1,83 @@
+id,feed_name,feed_url,feed_language
+1.0,BuzzFeed,https://www.buzzfeed.com/world.xml,
+2.0,"Al Jazeera – Breaking News, World News and Video from Al Jazeera",http://www.aljazeera.com/xml/rss/all.xml,en
+4.0,Global Issues News Headlines,https://www.globalissues.org/news/feed,
+6.0,CNN.com - RSS Channel - World,http://rss.cnn.com/rss/edition_world.rss,en-US
+7.0,"World News Headlines, Latest International News, World Breaking News - Times of India",https://timesofindia.indiatimes.com/rssfeeds/296589292.cms,en-gb
+8.0,International: Top News And Analysis,https://www.cnbc.com/id/100727362/device/rss/rss.html,en-us
+9.0,Washington Post,https://feeds.washingtonpost.com/rss/world,
+10.0,RT World News,https://www.rt.com/rss/news/,en
+11.0,World : NPR,http://www.npr.org/rss/rss.php?id=1004,en
+12.0,World News - breaking international headlines and exclusives | The Sun,https://www.thesun.co.uk/news/worldnews/feed/,en-GB
+13.0,World News - Breaking international news and headlines | Sky News,http://feeds.skynews.com/feeds/rss/world.xml,en-GB
+14.0,CBC | World News,http://www.cbc.ca/cmlink/rss-world,en-ca
+15.0,World - CBSNews.com,https://www.cbsnews.com/latest/rss/world,
+17.0,Sydney Morning Herald - World,http://www.smh.com.au/rssheadlines/world/article/rss.xml,en-AU
+19.0,CTVNews.ca - World - Public RSS,https://www.ctvnews.ca/rss/world/ctvnews-ca-world-public-rss-1.822289,en
+20.0,Latest News,http://www.channelnewsasia.com/rssfeeds/8395884,
+21.0,News24 World,http://feeds.news24.com/articles/news24/World/rss,
+22.0,: World,https://globalnews.ca/world/feed/,en-US
+23.0,Raw Story - Celebrating 19 Years of Independent Journalism,https://www.rawstory.com/category/world/feed/,en-us
+24.0,TORONTO STAR,http://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.news.world.rss,en-ca
+26.0,The Washington Times stories: World,http://www.washingtontimes.com/rss/headlines/news/world,en-us
+27.0,Latest World News Headlines | Daily Telegraph,https://www.dailytelegraph.com.au/news/world/rss,en-US
+28.0,CBNNews.com,http://www1.cbn.com/cbnnews/world/feed,en-US
+31.0,Iran Front Page,http://ifpnews.com/feed,en-US
+34.0,News - WAN-IFRA,https://wan-ifra.org/news/feed/,en-US
+42.0,WorldNewsEra,https://worldnewsera.com/feed/,en-US
+45.0,NewsBlaze News,https://newsblaze.com/feed/,en-US
+48.0,World Weekly News,https://worldweeklynews.com/feed/,en-US
+52.0,Newslanes,https://newslanes.com/feed/,en-US
+54.0,USNN World News,https://www.usnn.news/feed/,en-US
+55.0,News - South China Morning Post,https://www.scmp.com/rss/91/feed,en
+56.0,The Independent World,http://www.independent.co.uk/news/world/rss,en-gb
+59.0,LA Times,https://www.latimes.com/world/rss2.0.xml,
+60.0,ABC News,https://www.abc.net.au/news/feed/52278/rss.xml,
+61.0,The Mirror,http://www.mirror.co.uk/news/world-news/rss.xml,
+65.0,World's Top Exports,https://www.worldstopexports.com/feed/,en-US
+67.0,The Christian Science Monitor | World,https://rss.csmonitor.com/feeds/world,en-us
+69.0,BBC Breaking News,https://bbcbreakingnews.com/feed/,en-US
+70.0,Newsblenda,https://newsblenda.com/feed/,en-US
+73.0,Blog - Just World Educational,https://justworldeducational.org/category/blog/feed/,en-US
+76.0,Igor B News,https://www.igorbnews.com/feeds/posts/default?alt=rss,
+79.0,World news | The Guardian,https://www.theguardian.com/world/rss,en-gb
+80.0,Euronews,https://www.euronews.com/home/euronews/application/public/rss?%25level=program&name=nocomment,
+81.0,Vox,https://www.vox.com/rss/world/index.xml,
+83.0,New Europe,https://www.neweurope.eu/category/world/feed/,
+87.0,TFT News,https://tftnews.com/feed/,
+96.0,Just World News,https://justworldnews.org/feed/,en-US
+99.0,quicktrendnews,https://quicktrendnews.wordpress.com/feed/,en
+100.0,World update,https://worldupdatedaily.blogspot.com/feeds/posts/default?alt=rss,
+103.0,Swag On News,https://swagonnews.com/feed/,en-US
+105.0,The Daniels Post – World,https://danielspost.news.blog/feed/,en
+106.0,Breaking News,https://bbcstoriesnews.blogspot.com/feeds/posts/default?alt=rss,
+107.0,"Sputnik News - World News, Breaking News & Top Stories",https://sputniknews.com/export/rss2/world/index.xml,
+111.0,BBC News - World,http://feeds.bbci.co.uk/news/video_and_audio/world/rss.xml,en-gb
+112.0,BBC News - News front page,http://feeds.bbci.co.uk/news/video_and_audio/news_front_page/rss.xml?edition=uk,en-gb
+113.0,NYT > World News,https://rss.nytimes.com/services/xml/rss/nyt/World.xml,en-us
+114.0,NYT > World > Africa,https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml,en-us
+115.0,NYT > World > Americas,https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml,en-us
+116.0,NYT > World > Asia Pacific,https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml,en-us
+117.0,NYT > World > Europe,https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml,en-us
+118.0,NYT > World > Middle East,https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml,en-us
+119.0,NYT > U.S. News,https://rss.nytimes.com/services/xml/rss/nyt/US.xml,en-us
+126.0,BBC World Service RSS Feed,https://www.krps.org/bbc-world-service-rss-feed,
+127.0,UN News - Global perspective Human stories,https://news.un.org/feed/subscribe/en/news/all/rss.xml,en
+139.0,World Politics 101,https://world-politics-101.blogspot.com/feeds/posts/default?alt=rss,
+188.0,Politics | Australian political news and commentary - Crikey,https://www.crikey.com.au/politics/feed/,en-US
+190.0,"Politics - U.S. Political News, Opinion and Analysis",https://www.huffpost.com/section/politics/feed,en-US
+192.0,Political geography – Eye on the World,https://maynoothgeography.wordpress.com/category/political-geography/feed/,en
+203.0,"Newsbusters - Welcome to NewsBusters, a project of the Media Research Center (MRC), America’s leading media watchdog in documenting, exposing",http://www.newsbusters.org/blog/feed,en
+212.0,MIT News - Political science | Politics | Government | Policy | International relations,https://news.mit.edu/rss/topic/political-science,en
+350.0,Tinker Air Force Base News,https://www.tinker.af.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=147&isdashboardselected=0&max=20,en-us
+348.0,Janes news RSS,http://www.janes.com/rss,
+346.0,Defensie.nl - News items,https://feeds.english.defensie.nl/news.rss,en-GB
+340.0,National Guard News,https://www.nationalguard.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=688&Category=11200&max=20/feed,en-us
+338.0,U.S. Central Command News,https://www.centcom.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=808&max=20/feed,en-us
+,The Age - Latest News,https://www.theage.com.au/rss/feed.xml,en-AU
+,The Age - World,https://www.theage.com.au/rss/world.xml,en-AU
+,Reuters News Agency,https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best,en-US
+,Reuters News Agency,https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best,en-US
+,Reuters News Agency,https://www.reutersagency.com/feed/?taxonomy=best-regions&post_type=best,en-US
+,Reuters News Agency,https://www.reutersagency.com/feed/?taxonomy=best-customer-impacts&post_type=best,en-US
+,Reuters News Agency,https://www.reutersagency.com/feed/?post_type=reuters-best,en-US
