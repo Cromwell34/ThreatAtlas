@@ -294,7 +294,4 @@ def get_entities(headlines, df, type_):
             for e in li2:
                 ents.append(e)
 
-    return (
-        sorted(Counter(ents).items(), key=lambda item: item[1], reverse=True),
-        ents_nested,
-    )
+    return (sorted(Counter(ents).items(), key=lambda item: item[1], reverse=True), ents_nested)

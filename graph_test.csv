@@ -1,0 +1,3167 @@
+,Country1,Country2
+0,Afghanistan,United States
+1,Afghanistan,United Kingdom
+2,Afghanistan,DR Congo
+3,Afghanistan,China
+4,Afghanistan,Nigeria
+5,Afghanistan,Russia
+6,Afghanistan,Saudi Arabia
+7,Afghanistan,Ukraine
+8,Afghanistan,Colombia
+9,Afghanistan,Papua New Guinea
+10,Afghanistan,Iraq
+11,Afghanistan,Egypt
+12,Afghanistan,Mali
+13,Afghanistan,Syria
+14,Afghanistan,India
+15,Afghanistan,France
+16,Afghanistan,Germany
+17,Afghanistan,Belgium
+18,Afghanistan,Türkiye
+19,Afghanistan,Cuba
+20,Afghanistan,Palestine
+21,Afghanistan,Austria
+22,Afghanistan,Israel
+23,Afghanistan,Iran
+24,Afghanistan,Hungary
+25,Afghanistan,Venezuela
+26,Afghanistan,Kazakhstan
+27,Afghanistan,Azerbaijan
+28,Afghanistan,Qatar
+29,Afghanistan,Romania
+30,Afghanistan,Uzbekistan
+31,Afghanistan,Maldives
+32,Afghanistan,Tajikistan
+33,Afghanistan,Kyrgyz Republic
+34,Afghanistan,Turkmenistan
+35,Afghanistan,Albania
+36,Afghanistan,Yemen
+37,Afghanistan,Lebanon
+38,Afghanistan,Haiti
+39,Afghanistan,Guam
+40,United States,Uruguay
+41,United States,United Kingdom
+42,United States,China
+43,United States,Russia
+44,United States,Saudi Arabia
+45,United States,Ukraine
+46,United States,Hong Kong
+47,United States,Japan
+48,United States,Sudan
+49,United States,Australia
+50,United States,Taiwan
+51,United States,Canada
+52,United States,Türkiye
+53,United States,Cuba
+54,United States,Israel
+55,United States,Iran
+56,United States,Ethiopia
+57,United States,United Arab Emirates
+58,United States,Kuwait
+59,United States,Bahrain
+60,United States,Albania
+61,United States,Yemen
+62,United States,Lithuania
+63,Thailand,United States
+64,Thailand,China
+65,Thailand,India
+66,Thailand,Canada
+67,Thailand,Mexico
+68,Thailand,Vietnam
+69,Italy,United States
+70,Italy,United Kingdom
+71,Italy,Tunisia
+72,Italy,China
+73,Italy,Russia
+74,Italy,Saudi Arabia
+75,Italy,Ukraine
+76,Italy,Colombia
+77,Italy,Papua New Guinea
+78,Italy,Iraq
+79,Italy,Switzerland
+80,Italy,Hong Kong
+81,Italy,Japan
+82,Italy,North Korea
+83,Italy,Syria
+84,Italy,Australia
+85,Italy,South Korea
+86,Italy,India
+87,Italy,France
+88,Italy,Germany
+89,Italy,Netherlands
+90,Italy,Poland
+91,Italy,Canada
+92,Italy,Belgium
+93,Italy,Türkiye
+94,Italy,Iceland
+95,Italy,Sweden
+96,Italy,Slovakia
+97,Italy,Austria
+98,Italy,Israel
+99,Italy,Iran
+100,Italy,Hungary
+101,Italy,Spain
+102,Italy,Greece
+103,Italy,Portugal
+104,Italy,Norway
+105,Italy,Kazakhstan
+106,Italy,Oman
+107,Italy,Belarus
+108,Italy,Moldova
+109,Italy,Kuwait
+110,Italy,Bahrain
+111,Italy,Romania
+112,Italy,Croatia
+113,Italy,Bulgaria
+114,Italy,Latvia
+115,Italy,Albania
+116,Italy,Czech Republic
+117,Italy,Finland
+118,Italy,Lithuania
+119,Italy,Estonia
+120,Italy,Slovenia
+121,Italy,Denmark
+122,Italy,Kosovo
+123,Italy,Montenegro
+124,Italy,North Macedonia
+125,Italy,Luxembourg
+126,Pakistan,United States
+127,Pakistan,United Kingdom
+128,Pakistan,Russia
+129,Pakistan,Saudi Arabia
+130,Pakistan,Mongolia
+131,Pakistan,Isle of Man
+132,Pakistan,India
+133,Pakistan,Kazakhstan
+134,Pakistan,Qatar
+135,Pakistan,Bahrain
+136,Pakistan,Uzbekistan
+137,Pakistan,Tajikistan
+138,Pakistan,Kyrgyz Republic
+139,United Kingdom,Afghanistan
+140,United Kingdom,United States
+141,United Kingdom,Italy
+142,United Kingdom,China
+143,United Kingdom,Russia
+144,United Kingdom,Saudi Arabia
+145,United Kingdom,Ukraine
+146,United Kingdom,Colombia
+147,United Kingdom,Iraq
+148,United Kingdom,Switzerland
+149,United Kingdom,Hong Kong
+150,United Kingdom,Japan
+151,United Kingdom,Kenya
+152,United Kingdom,Sudan
+153,United Kingdom,North Korea
+154,United Kingdom,Syria
+155,United Kingdom,Australia
+156,United Kingdom,South Korea
+157,United Kingdom,France
+158,United Kingdom,Germany
+159,United Kingdom,Netherlands
+160,United Kingdom,Poland
+161,United Kingdom,Canada
+162,United Kingdom,Belgium
+163,United Kingdom,Türkiye
+164,United Kingdom,Cuba
+165,United Kingdom,Iceland
+166,United Kingdom,Sweden
+167,United Kingdom,Slovakia
+168,United Kingdom,Austria
+169,United Kingdom,Israel
+170,United Kingdom,Iran
+171,United Kingdom,Hungary
+172,United Kingdom,Spain
+173,United Kingdom,Greece
+174,United Kingdom,Venezuela
+175,United Kingdom,Portugal
+176,United Kingdom,Norway
+177,United Kingdom,Kazakhstan
+178,United Kingdom,United Arab Emirates
+179,United Kingdom,Qatar
+180,United Kingdom,Oman
+181,United Kingdom,Belarus
+182,United Kingdom,Moldova
+183,United Kingdom,Bahrain
+184,United Kingdom,Romania
+185,United Kingdom,Croatia
+186,United Kingdom,Bulgaria
+187,United Kingdom,Latvia
+188,United Kingdom,Uzbekistan
+189,United Kingdom,Albania
+190,United Kingdom,Yemen
+191,United Kingdom,Lebanon
+192,United Kingdom,Tanzania
+193,United Kingdom,Czech Republic
+194,United Kingdom,Finland
+195,United Kingdom,Lithuania
+196,United Kingdom,Estonia
+197,United Kingdom,Slovenia
+198,United Kingdom,Denmark
+199,United Kingdom,Kosovo
+200,United Kingdom,Montenegro
+201,United Kingdom,North Macedonia
+202,United Kingdom,Luxembourg
+203,United Kingdom,Georgia
+204,Tunisia,Italy
+205,China,Afghanistan
+206,China,United States
+207,China,Thailand
+208,China,Uruguay
+209,China,Italy
+210,China,United Kingdom
+211,China,Tunisia
+212,China,DR Congo
+213,China,Russia
+214,China,Saudi Arabia
+215,China,Ukraine
+216,China,Colombia
+217,China,Iraq
+218,China,Switzerland
+219,China,Egypt
+220,China,Hong Kong
+221,China,Japan
+222,China,Philippines
+223,China,North Korea
+224,China,Syria
+225,China,Australia
+226,China,Zambia
+227,China,South Korea
+228,China,India
+229,China,Singapore
+230,China,France
+231,China,Taiwan
+232,China,Germany
+233,China,Netherlands
+234,China,Poland
+235,China,Canada
+236,China,Belgium
+237,China,Türkiye
+238,China,Cuba
+239,China,Iceland
+240,China,Palestine
+241,China,South Africa
+242,China,Sweden
+243,China,Slovakia
+244,China,Israel
+245,China,Iran
+246,China,Honduras
+247,China,Hungary
+248,China,New Zealand
+249,China,Spain
+250,China,Greece
+251,China,Venezuela
+252,China,Portugal
+253,China,Norway
+254,China,Mexico
+255,China,Kazakhstan
+256,China,Azerbaijan
+257,China,Qatar
+258,China,Vietnam
+259,China,Belarus
+260,China,Moldova
+261,China,Myanmar
+262,China,Romania
+263,China,Croatia
+264,China,Bulgaria
+265,China,Latvia
+266,China,Uzbekistan
+267,China,Maldives
+268,China,Tajikistan
+269,China,Kyrgyz Republic
+270,China,Turkmenistan
+271,China,Albania
+272,China,Czech Republic
+273,China,Finland
+274,China,Lithuania
+275,China,Estonia
+276,China,Slovenia
+277,China,Denmark
+278,China,Kosovo
+279,China,Montenegro
+280,China,North Macedonia
+281,China,Luxembourg
+282,China,Palau
+283,Nigeria,United Kingdom
+284,Nigeria,Germany
+285,Russia,Afghanistan
+286,Russia,United States
+287,Russia,Uruguay
+288,Russia,Italy
+289,Russia,Pakistan
+290,Russia,United Kingdom
+291,Russia,DR Congo
+292,Russia,China
+293,Russia,Saudi Arabia
+294,Russia,Ukraine
+295,Russia,Colombia
+296,Russia,Iraq
+297,Russia,Switzerland
+298,Russia,Egypt
+299,Russia,Brazil
+300,Russia,Burkina Faso
+301,Russia,Hong Kong
+302,Russia,Japan
+303,Russia,Kenya
+304,Russia,Sudan
+305,Russia,North Korea
+306,Russia,Syria
+307,Russia,Australia
+308,Russia,Isle of Man
+309,Russia,Zambia
+310,Russia,South Korea
+311,Russia,India
+312,Russia,France
+313,Russia,Germany
+314,Russia,Netherlands
+315,Russia,Poland
+316,Russia,Canada
+317,Russia,Belgium
+318,Russia,Türkiye
+319,Russia,Cuba
+320,Russia,Iceland
+321,Russia,South Africa
+322,Russia,Sweden
+323,Russia,Slovakia
+324,Russia,Austria
+325,Russia,Israel
+326,Russia,Iran
+327,Russia,Hungary
+328,Russia,New Zealand
+329,Russia,Cyprus
+330,Russia,Spain
+331,Russia,Jamaica
+332,Russia,Greece
+333,Russia,Venezuela
+334,Russia,Portugal
+335,Russia,Norway
+336,Russia,Mexico
+337,Russia,Kazakhstan
+338,Russia,Azerbaijan
+339,Russia,United Arab Emirates
+340,Russia,Qatar
+341,Russia,Libya
+342,Russia,Belarus
+343,Russia,Moldova
+344,Russia,Kuwait
+345,Russia,Bahrain
+346,Russia,Algeria
+347,Russia,Myanmar
+348,Russia,Romania
+349,Russia,Croatia
+350,Russia,Bulgaria
+351,Russia,Malta
+352,Russia,Latvia
+353,Russia,Uzbekistan
+354,Russia,Maldives
+355,Russia,Tajikistan
+356,Russia,Kyrgyz Republic
+357,Russia,Turkmenistan
+358,Russia,Albania
+359,Russia,Yemen
+360,Russia,Lebanon
+361,Russia,Tanzania
+362,Russia,Czech Republic
+363,Russia,Finland
+364,Russia,Lithuania
+365,Russia,Estonia
+366,Russia,Slovenia
+367,Russia,Denmark
+368,Russia,Kosovo
+369,Russia,Montenegro
+370,Russia,North Macedonia
+371,Russia,Luxembourg
+372,Russia,Georgia
+373,Russia,Cayman Islands
+374,Saudi Arabia,Afghanistan
+375,Saudi Arabia,United States
+376,Saudi Arabia,Italy
+377,Saudi Arabia,Pakistan
+378,Saudi Arabia,United Kingdom
+379,Saudi Arabia,China
+380,Saudi Arabia,Russia
+381,Saudi Arabia,Ukraine
+382,Saudi Arabia,Colombia
+383,Saudi Arabia,Papua New Guinea
+384,Saudi Arabia,Switzerland
+385,Saudi Arabia,Egypt
+386,Saudi Arabia,Hong Kong
+387,Saudi Arabia,Sudan
+388,Saudi Arabia,Syria
+389,Saudi Arabia,Australia
+390,Saudi Arabia,South Korea
+391,Saudi Arabia,India
+392,Saudi Arabia,France
+393,Saudi Arabia,Germany
+394,Saudi Arabia,Canada
+395,Saudi Arabia,Belgium
+396,Saudi Arabia,Türkiye
+397,Saudi Arabia,Cuba
+398,Saudi Arabia,Argentina
+399,Saudi Arabia,Israel
+400,Saudi Arabia,Iran
+401,Saudi Arabia,Hungary
+402,Saudi Arabia,Spain
+403,Saudi Arabia,Venezuela
+404,Saudi Arabia,Kazakhstan
+405,Saudi Arabia,Azerbaijan
+406,Saudi Arabia,United Arab Emirates
+407,Saudi Arabia,Qatar
+408,Saudi Arabia,Oman
+409,Saudi Arabia,Macau
+410,Saudi Arabia,Libya
+411,Saudi Arabia,Kuwait
+412,Saudi Arabia,Bahrain
+413,Saudi Arabia,Algeria
+414,Saudi Arabia,Uzbekistan
+415,Saudi Arabia,Maldives
+416,Saudi Arabia,Tajikistan
+417,Saudi Arabia,Kyrgyz Republic
+418,Saudi Arabia,Turkmenistan
+419,Saudi Arabia,Albania
+420,Saudi Arabia,Lithuania
+421,Ukraine,Afghanistan
+422,Ukraine,United States
+423,Ukraine,Uruguay
+424,Ukraine,Italy
+425,Ukraine,United Kingdom
+426,Ukraine,China
+427,Ukraine,Russia
+428,Ukraine,Saudi Arabia
+429,Ukraine,Colombia
+430,Ukraine,Iraq
+431,Ukraine,Switzerland
+432,Ukraine,Egypt
+433,Ukraine,Brazil
+434,Ukraine,Burkina Faso
+435,Ukraine,Hong Kong
+436,Ukraine,Japan
+437,Ukraine,Kenya
+438,Ukraine,Sudan
+439,Ukraine,North Korea
+440,Ukraine,Syria
+441,Ukraine,Australia
+442,Ukraine,Isle of Man
+443,Ukraine,Zambia
+444,Ukraine,South Korea
+445,Ukraine,India
+446,Ukraine,France
+447,Ukraine,Germany
+448,Ukraine,Netherlands
+449,Ukraine,Poland
+450,Ukraine,Canada
+451,Ukraine,Belgium
+452,Ukraine,Türkiye
+453,Ukraine,Cuba
+454,Ukraine,Iceland
+455,Ukraine,South Africa
+456,Ukraine,Sweden
+457,Ukraine,Slovakia
+458,Ukraine,Austria
+459,Ukraine,Israel
+460,Ukraine,Iran
+461,Ukraine,Hungary
+462,Ukraine,New Zealand
+463,Ukraine,Cyprus
+464,Ukraine,Spain
+465,Ukraine,Jamaica
+466,Ukraine,Greece
+467,Ukraine,Venezuela
+468,Ukraine,Portugal
+469,Ukraine,Norway
+470,Ukraine,Kazakhstan
+471,Ukraine,United Arab Emirates
+472,Ukraine,Qatar
+473,Ukraine,Libya
+474,Ukraine,Belarus
+475,Ukraine,Moldova
+476,Ukraine,Kuwait
+477,Ukraine,Bahrain
+478,Ukraine,Algeria
+479,Ukraine,Romania
+480,Ukraine,Croatia
+481,Ukraine,Bulgaria
+482,Ukraine,Malta
+483,Ukraine,Latvia
+484,Ukraine,Uzbekistan
+485,Ukraine,Albania
+486,Ukraine,Tanzania
+487,Ukraine,Czech Republic
+488,Ukraine,Finland
+489,Ukraine,Lithuania
+490,Ukraine,Estonia
+491,Ukraine,Slovenia
+492,Ukraine,Denmark
+493,Ukraine,Kosovo
+494,Ukraine,Montenegro
+495,Ukraine,North Macedonia
+496,Ukraine,Luxembourg
+497,Ukraine,Georgia
+498,Colombia,Cuba
+499,Colombia,Venezuela
+500,Papua New Guinea,Afghanistan
+501,Papua New Guinea,DR Congo
+502,Papua New Guinea,Nigeria
+503,Papua New Guinea,Mali
+504,Papua New Guinea,Syria
+505,Papua New Guinea,Palestine
+506,Papua New Guinea,Yemen
+507,Papua New Guinea,Haiti
+508,Iraq,Afghanistan
+509,Iraq,United States
+510,Iraq,Italy
+511,Iraq,United Kingdom
+512,Iraq,China
+513,Iraq,Russia
+514,Iraq,Ukraine
+515,Iraq,North Korea
+516,Iraq,Syria
+517,Iraq,Australia
+518,Iraq,France
+519,Iraq,Germany
+520,Iraq,Netherlands
+521,Iraq,Poland
+522,Iraq,Canada
+523,Iraq,Belgium
+524,Iraq,Türkiye
+525,Iraq,Iceland
+526,Iraq,Sweden
+527,Iraq,Slovakia
+528,Iraq,Austria
+529,Iraq,Israel
+530,Iraq,Iran
+531,Iraq,Hungary
+532,Iraq,Spain
+533,Iraq,Greece
+534,Iraq,Portugal
+535,Iraq,Norway
+536,Iraq,Qatar
+537,Iraq,Belarus
+538,Iraq,Moldova
+539,Iraq,Kuwait
+540,Iraq,Romania
+541,Iraq,Croatia
+542,Iraq,Bulgaria
+543,Iraq,Latvia
+544,Iraq,Albania
+545,Iraq,Yemen
+546,Iraq,Lebanon
+547,Iraq,Czech Republic
+548,Iraq,Finland
+549,Iraq,Lithuania
+550,Iraq,Estonia
+551,Iraq,Slovenia
+552,Iraq,Denmark
+553,Iraq,Kosovo
+554,Iraq,Montenegro
+555,Iraq,North Macedonia
+556,Iraq,Luxembourg
+557,Switzerland,United States
+558,Switzerland,Italy
+559,Switzerland,United Kingdom
+560,Switzerland,China
+561,Switzerland,Nigeria
+562,Switzerland,Russia
+563,Switzerland,Saudi Arabia
+564,Switzerland,Ukraine
+565,Switzerland,Colombia
+566,Switzerland,Papua New Guinea
+567,Switzerland,Hong Kong
+568,Switzerland,Syria
+569,Switzerland,South Korea
+570,Switzerland,India
+571,Switzerland,France
+572,Switzerland,Belgium
+573,Switzerland,Türkiye
+574,Switzerland,Sweden
+575,Switzerland,Iran
+576,Switzerland,Cyprus
+577,Switzerland,Spain
+578,Switzerland,Portugal
+579,Switzerland,Kazakhstan
+580,Switzerland,Oman
+581,Switzerland,Belarus
+582,Switzerland,Bahrain
+583,Switzerland,Latvia
+584,Egypt,Afghanistan
+585,Egypt,United States
+586,Egypt,Uruguay
+587,Egypt,United Kingdom
+588,Egypt,China
+589,Egypt,Russia
+590,Egypt,Saudi Arabia
+591,Egypt,Colombia
+592,Egypt,Kenya
+593,Egypt,Sudan
+594,Egypt,India
+595,Egypt,Türkiye
+596,Egypt,South Africa
+597,Egypt,Israel
+598,Egypt,Iran
+599,Egypt,Uganda
+600,Egypt,Kazakhstan
+601,Egypt,Azerbaijan
+602,Egypt,Morocco
+603,Egypt,Qatar
+604,Egypt,Bahrain
+605,Egypt,Uzbekistan
+606,Egypt,Maldives
+607,Egypt,Tajikistan
+608,Egypt,Kyrgyz Republic
+609,Egypt,Turkmenistan
+610,Egypt,Lebanon
+611,Egypt,Tanzania
+612,Brazil,United States
+613,Brazil,Russia
+614,Brazil,Ukraine
+615,Brazil,Egypt
+616,Brazil,Australia
+617,Brazil,Canada
+618,Brazil,South Africa
+619,Brazil,Venezuela
+620,Brazil,Portugal
+621,Brazil,Peru
+622,Brazil,Mexico
+623,Brazil,Belarus
+624,Somalia,Ethiopia
+625,Somalia,Oman
+626,Mali,Afghanistan
+627,Mali,DR Congo
+628,Mali,Nigeria
+629,Mali,Papua New Guinea
+630,Mali,Burkina Faso
+631,Mali,Syria
+632,Mali,Palestine
+633,Mali,Yemen
+634,Mali,Haiti
+635,Burkina Faso,United States
+636,Burkina Faso,Russia
+637,Burkina Faso,Ukraine
+638,Burkina Faso,Mali
+639,Burkina Faso,Belgium
+640,Burkina Faso,Türkiye
+641,Burkina Faso,Cyprus
+642,Burkina Faso,Greece
+643,Burkina Faso,Malta
+644,Hong Kong,United States
+645,Hong Kong,Italy
+646,Hong Kong,United Kingdom
+647,Hong Kong,China
+648,Hong Kong,Russia
+649,Hong Kong,Saudi Arabia
+650,Hong Kong,Ukraine
+651,Hong Kong,Papua New Guinea
+652,Hong Kong,Switzerland
+653,Hong Kong,Australia
+654,Hong Kong,South Korea
+655,Hong Kong,India
+656,Hong Kong,Singapore
+657,Hong Kong,France
+658,Hong Kong,Canada
+659,Hong Kong,Cuba
+660,Hong Kong,Iran
+661,Hong Kong,Spain
+662,Hong Kong,Oman
+663,Hong Kong,Bahrain
+664,Japan,United States
+665,Japan,Italy
+666,Japan,United Kingdom
+667,Japan,China
+668,Japan,Russia
+669,Japan,Ukraine
+670,Japan,Philippines
+671,Japan,North Korea
+672,Japan,South Korea
+673,Japan,India
+674,Japan,France
+675,Japan,Germany
+676,Japan,Belgium
+677,Japan,Austria
+678,Japan,Kazakhstan
+679,Japan,Oman
+680,Japan,Belarus
+681,Japan,Bahrain
+682,Japan,Uzbekistan
+683,Mongolia,United States
+684,Mongolia,Pakistan
+685,Mongolia,Kazakhstan
+686,Mongolia,Uzbekistan
+687,Mongolia,Tajikistan
+688,Mongolia,Kyrgyz Republic
+689,Kenya,United States
+690,Kenya,United Kingdom
+691,Kenya,Russia
+692,Kenya,Ukraine
+693,Kenya,Egypt
+694,Kenya,Sudan
+695,Kenya,North Korea
+696,Kenya,Syria
+697,Kenya,Türkiye
+698,Kenya,Cuba
+699,Kenya,Iran
+700,Kenya,Uganda
+701,Kenya,Morocco
+702,Kenya,Belarus
+703,Kenya,Maldives
+704,Kenya,Tanzania
+705,Sudan,United States
+706,Sudan,United Kingdom
+707,Sudan,Russia
+708,Sudan,Saudi Arabia
+709,Sudan,Ukraine
+710,Sudan,Egypt
+711,Sudan,Kenya
+712,Sudan,North Korea
+713,Sudan,Syria
+714,Sudan,Türkiye
+715,Sudan,Cuba
+716,Sudan,Palestine
+717,Sudan,Israel
+718,Sudan,Iran
+719,Sudan,Belarus
+720,Sudan,Tanzania
+721,Sudan,Chad
+722,Philippines,United States
+723,Philippines,China
+724,Philippines,Japan
+725,Philippines,South Korea
+726,Philippines,Singapore
+727,Philippines,Myanmar
+728,Philippines,Tonga
+729,Philippines,Laos
+730,Philippines,Indonesia
+731,North Korea,United States
+732,North Korea,Italy
+733,North Korea,United Kingdom
+734,North Korea,China
+735,North Korea,Russia
+736,North Korea,Ukraine
+737,North Korea,Iraq
+738,North Korea,Kenya
+739,North Korea,Sudan
+740,North Korea,Syria
+741,North Korea,France
+742,North Korea,Germany
+743,North Korea,Netherlands
+744,North Korea,Poland
+745,North Korea,Canada
+746,North Korea,Belgium
+747,North Korea,Türkiye
+748,North Korea,Cuba
+749,North Korea,Iceland
+750,North Korea,Sweden
+751,North Korea,Slovakia
+752,North Korea,Israel
+753,North Korea,Iran
+754,North Korea,Hungary
+755,North Korea,Spain
+756,North Korea,Greece
+757,North Korea,Portugal
+758,North Korea,Norway
+759,North Korea,Belarus
+760,North Korea,Moldova
+761,North Korea,Romania
+762,North Korea,Croatia
+763,North Korea,Bulgaria
+764,North Korea,Latvia
+765,North Korea,Albania
+766,North Korea,Tanzania
+767,North Korea,Czech Republic
+768,North Korea,Finland
+769,North Korea,Lithuania
+770,North Korea,Estonia
+771,North Korea,Slovenia
+772,North Korea,Denmark
+773,North Korea,Kosovo
+774,North Korea,Montenegro
+775,North Korea,North Macedonia
+776,North Korea,Luxembourg
+777,Syria,Afghanistan
+778,Syria,United States
+779,Syria,Italy
+780,Syria,United Kingdom
+781,Syria,DR Congo
+782,Syria,China
+783,Syria,Nigeria
+784,Syria,Russia
+785,Syria,Saudi Arabia
+786,Syria,Ukraine
+787,Syria,Papua New Guinea
+788,Syria,Iraq
+789,Syria,Mali
+790,Syria,Kenya
+791,Syria,Sudan
+792,Syria,North Korea
+793,Syria,France
+794,Syria,Germany
+795,Syria,Netherlands
+796,Syria,Poland
+797,Syria,Canada
+798,Syria,Belgium
+799,Syria,Türkiye
+800,Syria,Cuba
+801,Syria,Iceland
+802,Syria,Palestine
+803,Syria,Sweden
+804,Syria,Slovakia
+805,Syria,Austria
+806,Syria,Israel
+807,Syria,Iran
+808,Syria,Hungary
+809,Syria,Spain
+810,Syria,Greece
+811,Syria,Venezuela
+812,Syria,Portugal
+813,Syria,Norway
+814,Syria,Qatar
+815,Syria,Jordan
+816,Syria,Belarus
+817,Syria,Moldova
+818,Syria,Romania
+819,Syria,Croatia
+820,Syria,Bulgaria
+821,Syria,Latvia
+822,Syria,Uzbekistan
+823,Syria,Albania
+824,Syria,Yemen
+825,Syria,Lebanon
+826,Syria,Tanzania
+827,Syria,Czech Republic
+828,Syria,Finland
+829,Syria,Lithuania
+830,Syria,Estonia
+831,Syria,Slovenia
+832,Syria,Denmark
+833,Syria,Kosovo
+834,Syria,Montenegro
+835,Syria,North Macedonia
+836,Syria,Luxembourg
+837,Syria,Haiti
+838,Australia,United States
+839,Australia,Uruguay
+840,Australia,Italy
+841,Australia,United Kingdom
+842,Australia,China
+843,Australia,Russia
+844,Australia,Saudi Arabia
+845,Australia,Ukraine
+846,Australia,Iraq
+847,Australia,Brazil
+848,Australia,Hong Kong
+849,Australia,Japan
+850,Australia,South Korea
+851,Australia,India
+852,Australia,Germany
+853,Australia,Netherlands
+854,Australia,Canada
+855,Australia,Cuba
+856,Australia,Iceland
+857,Australia,South Africa
+858,Australia,Sweden
+859,Australia,Argentina
+860,Australia,Hungary
+861,Australia,New Zealand
+862,Australia,United Arab Emirates
+863,Australia,Bahrain
+864,Australia,Albania
+865,Australia,Lithuania
+866,South Korea,United States
+867,South Korea,Italy
+868,South Korea,United Kingdom
+869,South Korea,China
+870,South Korea,Russia
+871,South Korea,Saudi Arabia
+872,South Korea,Ukraine
+873,South Korea,Papua New Guinea
+874,South Korea,Switzerland
+875,South Korea,Hong Kong
+876,South Korea,Japan
+877,South Korea,Philippines
+878,South Korea,Australia
+879,South Korea,India
+880,South Korea,Singapore
+881,South Korea,France
+882,South Korea,Germany
+883,South Korea,Canada
+884,South Korea,Austria
+885,South Korea,Iran
+886,South Korea,Spain
+887,South Korea,Kazakhstan
+888,South Korea,Oman
+889,South Korea,Belarus
+890,South Korea,Bahrain
+891,South Korea,Uzbekistan
+892,India,Afghanistan
+893,India,United States
+894,India,Thailand
+895,India,Italy
+896,India,Pakistan
+897,India,United Kingdom
+898,India,China
+899,India,Russia
+900,India,Saudi Arabia
+901,India,Ukraine
+902,India,Colombia
+903,India,Papua New Guinea
+904,India,Switzerland
+905,India,Egypt
+906,India,Hong Kong
+907,India,Japan
+908,India,Australia
+909,India,South Korea
+910,India,France
+911,India,Germany
+912,India,Canada
+913,India,Türkiye
+914,India,Iran
+915,India,Spain
+916,India,Mexico
+917,India,Kazakhstan
+918,India,Azerbaijan
+919,India,Qatar
+920,India,Oman
+921,India,Bahrain
+922,India,Uzbekistan
+923,India,Maldives
+924,India,Tajikistan
+925,India,Kyrgyz Republic
+926,India,Turkmenistan
+927,Singapore,United States
+928,Singapore,Tunisia
+929,Singapore,China
+930,Singapore,Hong Kong
+931,Singapore,Philippines
+932,Singapore,South Korea
+933,Singapore,South Africa
+934,France,Afghanistan
+935,France,United States
+936,France,Italy
+937,France,United Kingdom
+938,France,China
+939,France,Russia
+940,France,Saudi Arabia
+941,France,Ukraine
+942,France,Papua New Guinea
+943,France,Iraq
+944,France,Switzerland
+945,France,Hong Kong
+946,France,Japan
+947,France,North Korea
+948,France,Syria
+949,France,Zambia
+950,France,South Korea
+951,France,India
+952,France,Germany
+953,France,Netherlands
+954,France,Poland
+955,France,Canada
+956,France,Belgium
+957,France,Türkiye
+958,France,Cuba
+959,France,Iceland
+960,France,Sweden
+961,France,Slovakia
+962,France,Austria
+963,France,Israel
+964,France,Iran
+965,France,Hungary
+966,France,Spain
+967,France,Greece
+968,France,Venezuela
+969,France,Portugal
+970,France,Norway
+971,France,Kazakhstan
+972,France,Oman
+973,France,Belarus
+974,France,Moldova
+975,France,Bahrain
+976,France,Romania
+977,France,Croatia
+978,France,Bulgaria
+979,France,Latvia
+980,France,Uzbekistan
+981,France,Albania
+982,France,Czech Republic
+983,France,Finland
+984,France,Lithuania
+985,France,Estonia
+986,France,Slovenia
+987,France,Denmark
+988,France,Kosovo
+989,France,Montenegro
+990,France,North Macedonia
+991,France,Luxembourg
+992,France,Georgia
+993,Taiwan,United States
+994,Taiwan,Uruguay
+995,Taiwan,China
+996,Taiwan,Russia
+997,Taiwan,Türkiye
+998,Taiwan,Cuba
+999,Taiwan,Honduras
+1000,Taiwan,Palau
+1001,Germany,Afghanistan
+1002,Germany,United States
+1003,Germany,Uruguay
+1004,Germany,Italy
+1005,Germany,United Kingdom
+1006,Germany,China
+1007,Germany,Nigeria
+1008,Germany,Russia
+1009,Germany,Saudi Arabia
+1010,Germany,Ukraine
+1011,Germany,Iraq
+1012,Germany,Switzerland
+1013,Germany,Japan
+1014,Germany,North Korea
+1015,Germany,Syria
+1016,Germany,Isle of Man
+1017,Germany,Zambia
+1018,Germany,South Korea
+1019,Germany,France
+1020,Germany,Netherlands
+1021,Germany,Poland
+1022,Germany,Canada
+1023,Germany,Belgium
+1024,Germany,Türkiye
+1025,Germany,Cuba
+1026,Germany,Iceland
+1027,Germany,South Africa
+1028,Germany,Sweden
+1029,Germany,Slovakia
+1030,Germany,Austria
+1031,Germany,Israel
+1032,Germany,Iran
+1033,Germany,Hungary
+1034,Germany,Spain
+1035,Germany,Greece
+1036,Germany,Venezuela
+1037,Germany,Portugal
+1038,Germany,Norway
+1039,Germany,Kazakhstan
+1040,Germany,Belarus
+1041,Germany,Moldova
+1042,Germany,Romania
+1043,Germany,Croatia
+1044,Germany,Bulgaria
+1045,Germany,Latvia
+1046,Germany,Uzbekistan
+1047,Germany,Albania
+1048,Germany,Czech Republic
+1049,Germany,Finland
+1050,Germany,Lithuania
+1051,Germany,Estonia
+1052,Germany,Slovenia
+1053,Germany,Denmark
+1054,Germany,Kosovo
+1055,Germany,Montenegro
+1056,Germany,North Macedonia
+1057,Germany,Luxembourg
+1058,Germany,Georgia
+1059,Netherlands,United States
+1060,Netherlands,Uruguay
+1061,Netherlands,Italy
+1062,Netherlands,United Kingdom
+1063,Netherlands,China
+1064,Netherlands,Russia
+1065,Netherlands,Ukraine
+1066,Netherlands,Iraq
+1067,Netherlands,Switzerland
+1068,Netherlands,Japan
+1069,Netherlands,North Korea
+1070,Netherlands,Syria
+1071,Netherlands,Australia
+1072,Netherlands,Isle of Man
+1073,Netherlands,France
+1074,Netherlands,Germany
+1075,Netherlands,Poland
+1076,Netherlands,Canada
+1077,Netherlands,Belgium
+1078,Netherlands,Türkiye
+1079,Netherlands,Iceland
+1080,Netherlands,Sweden
+1081,Netherlands,Slovakia
+1082,Netherlands,Israel
+1083,Netherlands,Iran
+1084,Netherlands,Hungary
+1085,Netherlands,Spain
+1086,Netherlands,Greece
+1087,Netherlands,Portugal
+1088,Netherlands,Norway
+1089,Netherlands,Belarus
+1090,Netherlands,Moldova
+1091,Netherlands,Rwanda
+1092,Netherlands,Romania
+1093,Netherlands,Croatia
+1094,Netherlands,Bulgaria
+1095,Netherlands,Latvia
+1096,Netherlands,Albania
+1097,Netherlands,Czech Republic
+1098,Netherlands,Finland
+1099,Netherlands,Lithuania
+1100,Netherlands,Estonia
+1101,Netherlands,Slovenia
+1102,Netherlands,Denmark
+1103,Netherlands,Kosovo
+1104,Netherlands,Montenegro
+1105,Netherlands,North Macedonia
+1106,Netherlands,Luxembourg
+1107,Netherlands,Bosnia and Herzegovina
+1108,Poland,United States
+1109,Poland,Italy
+1110,Poland,United Kingdom
+1111,Poland,China
+1112,Poland,Russia
+1113,Poland,Ukraine
+1114,Poland,Iraq
+1115,Poland,North Korea
+1116,Poland,Syria
+1117,Poland,Isle of Man
+1118,Poland,France
+1119,Poland,Germany
+1120,Poland,Netherlands
+1121,Poland,Canada
+1122,Poland,Belgium
+1123,Poland,Türkiye
+1124,Poland,Cuba
+1125,Poland,Iceland
+1126,Poland,Sweden
+1127,Poland,Slovakia
+1128,Poland,Austria
+1129,Poland,Israel
+1130,Poland,Iran
+1131,Poland,Hungary
+1132,Poland,Spain
+1133,Poland,Greece
+1134,Poland,Venezuela
+1135,Poland,Portugal
+1136,Poland,Norway
+1137,Poland,Belarus
+1138,Poland,Moldova
+1139,Poland,Romania
+1140,Poland,Croatia
+1141,Poland,Bulgaria
+1142,Poland,Latvia
+1143,Poland,Albania
+1144,Poland,Czech Republic
+1145,Poland,Finland
+1146,Poland,Lithuania
+1147,Poland,Estonia
+1148,Poland,Slovenia
+1149,Poland,Denmark
+1150,Poland,Kosovo
+1151,Poland,Montenegro
+1152,Poland,North Macedonia
+1153,Poland,Luxembourg
+1154,Poland,Georgia
+1155,Canada,United States
+1156,Canada,Thailand
+1157,Canada,Italy
+1158,Canada,United Kingdom
+1159,Canada,China
+1160,Canada,Russia
+1161,Canada,Saudi Arabia
+1162,Canada,Ukraine
+1163,Canada,Iraq
+1164,Canada,Brazil
+1165,Canada,Japan
+1166,Canada,North Korea
+1167,Canada,Syria
+1168,Canada,Australia
+1169,Canada,Isle of Man
+1170,Canada,South Korea
+1171,Canada,India
+1172,Canada,France
+1173,Canada,Germany
+1174,Canada,Netherlands
+1175,Canada,Poland
+1176,Canada,Belgium
+1177,Canada,Türkiye
+1178,Canada,Iceland
+1179,Canada,South Africa
+1180,Canada,Sweden
+1181,Canada,Slovakia
+1182,Canada,Israel
+1183,Canada,Iran
+1184,Canada,Hungary
+1185,Canada,Spain
+1186,Canada,Jamaica
+1187,Canada,Greece
+1188,Canada,Portugal
+1189,Canada,Norway
+1190,Canada,Mexico
+1191,Canada,Belarus
+1192,Canada,Moldova
+1193,Canada,Kuwait
+1194,Canada,Romania
+1195,Canada,Croatia
+1196,Canada,Bulgaria
+1197,Canada,Latvia
+1198,Canada,Albania
+1199,Canada,Czech Republic
+1200,Canada,Finland
+1201,Canada,Lithuania
+1202,Canada,Estonia
+1203,Canada,Slovenia
+1204,Canada,Denmark
+1205,Canada,Kosovo
+1206,Canada,Montenegro
+1207,Canada,North Macedonia
+1208,Canada,Luxembourg
+1209,Canada,Cayman Islands
+1210,Belgium,Afghanistan
+1211,Belgium,United States
+1212,Belgium,Italy
+1213,Belgium,United Kingdom
+1214,Belgium,China
+1215,Belgium,Russia
+1216,Belgium,Ukraine
+1217,Belgium,Iraq
+1218,Belgium,Switzerland
+1219,Belgium,Japan
+1220,Belgium,North Korea
+1221,Belgium,Syria
+1222,Belgium,France
+1223,Belgium,Germany
+1224,Belgium,Netherlands
+1225,Belgium,Poland
+1226,Belgium,Canada
+1227,Belgium,Türkiye
+1228,Belgium,Cuba
+1229,Belgium,Iceland
+1230,Belgium,Sweden
+1231,Belgium,Slovakia
+1232,Belgium,Austria
+1233,Belgium,Israel
+1234,Belgium,Iran
+1235,Belgium,Hungary
+1236,Belgium,Spain
+1237,Belgium,Greece
+1238,Belgium,Venezuela
+1239,Belgium,Portugal
+1240,Belgium,Norway
+1241,Belgium,Qatar
+1242,Belgium,Oman
+1243,Belgium,Belarus
+1244,Belgium,Moldova
+1245,Belgium,Romania
+1246,Belgium,Croatia
+1247,Belgium,Bulgaria
+1248,Belgium,Latvia
+1249,Belgium,Albania
+1250,Belgium,Yemen
+1251,Belgium,Lebanon
+1252,Belgium,Czech Republic
+1253,Belgium,Finland
+1254,Belgium,Lithuania
+1255,Belgium,Estonia
+1256,Belgium,Slovenia
+1257,Belgium,Denmark
+1258,Belgium,Kosovo
+1259,Belgium,Montenegro
+1260,Belgium,North Macedonia
+1261,Belgium,Luxembourg
+1262,Belgium,Georgia
+1263,Cuba,Afghanistan
+1264,Cuba,United States
+1265,Cuba,Uruguay
+1266,Cuba,United Kingdom
+1267,Cuba,China
+1268,Cuba,Russia
+1269,Cuba,Saudi Arabia
+1270,Cuba,Ukraine
+1271,Cuba,Colombia
+1272,Cuba,Hong Kong
+1273,Cuba,Kenya
+1274,Cuba,Sudan
+1275,Cuba,North Korea
+1276,Cuba,Syria
+1277,Cuba,Australia
+1278,Cuba,France
+1279,Cuba,Taiwan
+1280,Cuba,Germany
+1281,Cuba,Poland
+1282,Cuba,Belgium
+1283,Cuba,Türkiye
+1284,Cuba,Slovakia
+1285,Cuba,Israel
+1286,Cuba,Iran
+1287,Cuba,Hungary
+1288,Cuba,Venezuela
+1289,Cuba,Belarus
+1290,Cuba,Moldova
+1291,Cuba,Nicaragua
+1292,Cuba,Romania
+1293,Cuba,Latvia
+1294,Cuba,Uzbekistan
+1295,Cuba,Tanzania
+1296,Cuba,Czech Republic
+1297,Cuba,Lithuania
+1298,Cuba,Estonia
+1299,Cuba,Georgia
+1300,Iceland,United States
+1301,Iceland,Italy
+1302,Iceland,United Kingdom
+1303,Iceland,China
+1304,Iceland,Russia
+1305,Iceland,Ukraine
+1306,Iceland,Iraq
+1307,Iceland,North Korea
+1308,Iceland,Syria
+1309,Iceland,France
+1310,Iceland,Germany
+1311,Iceland,Netherlands
+1312,Iceland,Poland
+1313,Iceland,Canada
+1314,Iceland,Belgium
+1315,Iceland,Türkiye
+1316,Iceland,Sweden
+1317,Iceland,Slovakia
+1318,Iceland,Israel
+1319,Iceland,Iran
+1320,Iceland,Hungary
+1321,Iceland,Spain
+1322,Iceland,Greece
+1323,Iceland,Portugal
+1324,Iceland,Norway
+1325,Iceland,Belarus
+1326,Iceland,Moldova
+1327,Iceland,Romania
+1328,Iceland,Croatia
+1329,Iceland,Bulgaria
+1330,Iceland,Latvia
+1331,Iceland,Albania
+1332,Iceland,Czech Republic
+1333,Iceland,Finland
+1334,Iceland,Lithuania
+1335,Iceland,Estonia
+1336,Iceland,Slovenia
+1337,Iceland,Denmark
+1338,Iceland,Kosovo
+1339,Iceland,Montenegro
+1340,Iceland,North Macedonia
+1341,Iceland,Luxembourg
+1342,Palestine,United States
+1343,Palestine,China
+1344,Palestine,Sudan
+1345,Palestine,Israel
+1346,Palestine,Iran
+1347,Palestine,Moldova
+1348,South Africa,Russia
+1349,South Africa,Ukraine
+1350,South Africa,Brazil
+1351,South Africa,Australia
+1352,South Africa,Canada
+1353,Sweden,United States
+1354,Sweden,Italy
+1355,Sweden,United Kingdom
+1356,Sweden,DR Congo
+1357,Sweden,China
+1358,Sweden,Russia
+1359,Sweden,Ukraine
+1360,Sweden,Iraq
+1361,Sweden,Switzerland
+1362,Sweden,North Korea
+1363,Sweden,Syria
+1364,Sweden,India
+1365,Sweden,France
+1366,Sweden,Germany
+1367,Sweden,Netherlands
+1368,Sweden,Poland
+1369,Sweden,Canada
+1370,Sweden,Belgium
+1371,Sweden,Türkiye
+1372,Sweden,Iceland
+1373,Sweden,Slovakia
+1374,Sweden,Israel
+1375,Sweden,Iran
+1376,Sweden,Hungary
+1377,Sweden,Spain
+1378,Sweden,Greece
+1379,Sweden,Portugal
+1380,Sweden,Norway
+1381,Sweden,Belarus
+1382,Sweden,Moldova
+1383,Sweden,Romania
+1384,Sweden,Croatia
+1385,Sweden,Bulgaria
+1386,Sweden,Latvia
+1387,Sweden,Albania
+1388,Sweden,Czech Republic
+1389,Sweden,Finland
+1390,Sweden,Lithuania
+1391,Sweden,Estonia
+1392,Sweden,Slovenia
+1393,Sweden,Denmark
+1394,Sweden,Kosovo
+1395,Sweden,Montenegro
+1396,Sweden,North Macedonia
+1397,Sweden,Luxembourg
+1398,Slovakia,United States
+1399,Slovakia,Italy
+1400,Slovakia,United Kingdom
+1401,Slovakia,China
+1402,Slovakia,Russia
+1403,Slovakia,Ukraine
+1404,Slovakia,Iraq
+1405,Slovakia,North Korea
+1406,Slovakia,Syria
+1407,Slovakia,France
+1408,Slovakia,Germany
+1409,Slovakia,Netherlands
+1410,Slovakia,Poland
+1411,Slovakia,Canada
+1412,Slovakia,Belgium
+1413,Slovakia,Türkiye
+1414,Slovakia,Cuba
+1415,Slovakia,Iceland
+1416,Slovakia,Sweden
+1417,Slovakia,Austria
+1418,Slovakia,Israel
+1419,Slovakia,Iran
+1420,Slovakia,Hungary
+1421,Slovakia,Spain
+1422,Slovakia,Greece
+1423,Slovakia,Venezuela
+1424,Slovakia,Portugal
+1425,Slovakia,Norway
+1426,Slovakia,Belarus
+1427,Slovakia,Moldova
+1428,Slovakia,Romania
+1429,Slovakia,Croatia
+1430,Slovakia,Bulgaria
+1431,Slovakia,Latvia
+1432,Slovakia,Albania
+1433,Slovakia,Czech Republic
+1434,Slovakia,Finland
+1435,Slovakia,Lithuania
+1436,Slovakia,Estonia
+1437,Slovakia,Slovenia
+1438,Slovakia,Denmark
+1439,Slovakia,Kosovo
+1440,Slovakia,Montenegro
+1441,Slovakia,North Macedonia
+1442,Slovakia,Luxembourg
+1443,Slovakia,Georgia
+1444,Austria,Afghanistan
+1445,Austria,United States
+1446,Austria,Italy
+1447,Austria,United Kingdom
+1448,Austria,Russia
+1449,Austria,Ukraine
+1450,Austria,Iraq
+1451,Austria,Japan
+1452,Austria,Syria
+1453,Austria,South Korea
+1454,Austria,France
+1455,Austria,Germany
+1456,Austria,Poland
+1457,Austria,Belgium
+1458,Austria,Türkiye
+1459,Austria,Slovakia
+1460,Austria,Iran
+1461,Austria,Hungary
+1462,Austria,Kazakhstan
+1463,Austria,Qatar
+1464,Austria,Belarus
+1465,Austria,Romania
+1466,Austria,Uzbekistan
+1467,Austria,Albania
+1468,Austria,Yemen
+1469,Austria,Lebanon
+1470,Argentina,China
+1471,Argentina,Australia
+1472,Argentina,Benin
+1473,Israel,Afghanistan
+1474,Israel,United States
+1475,Israel,Italy
+1476,Israel,United Kingdom
+1477,Israel,China
+1478,Israel,Russia
+1479,Israel,Saudi Arabia
+1480,Israel,Ukraine
+1481,Israel,Iraq
+1482,Israel,Egypt
+1483,Israel,Sudan
+1484,Israel,North Korea
+1485,Israel,Syria
+1486,Israel,France
+1487,Israel,Germany
+1488,Israel,Netherlands
+1489,Israel,Poland
+1490,Israel,Canada
+1491,Israel,Belgium
+1492,Israel,Türkiye
+1493,Israel,Cuba
+1494,Israel,Iceland
+1495,Israel,Palestine
+1496,Israel,Sweden
+1497,Israel,Slovakia
+1498,Israel,Iran
+1499,Israel,Hungary
+1500,Israel,Spain
+1501,Israel,Greece
+1502,Israel,Venezuela
+1503,Israel,Portugal
+1504,Israel,Norway
+1505,Israel,Jordan
+1506,Israel,Belarus
+1507,Israel,Moldova
+1508,Israel,Bahrain
+1509,Israel,Romania
+1510,Israel,Croatia
+1511,Israel,Bulgaria
+1512,Israel,Latvia
+1513,Israel,Uzbekistan
+1514,Israel,Albania
+1515,Israel,Czech Republic
+1516,Israel,Finland
+1517,Israel,Lithuania
+1518,Israel,Estonia
+1519,Israel,Slovenia
+1520,Israel,Denmark
+1521,Israel,Kosovo
+1522,Israel,Montenegro
+1523,Israel,North Macedonia
+1524,Israel,Luxembourg
+1525,Iran,Afghanistan
+1526,Iran,United States
+1527,Iran,Italy
+1528,Iran,United Kingdom
+1529,Iran,China
+1530,Iran,Russia
+1531,Iran,Saudi Arabia
+1532,Iran,Ukraine
+1533,Iran,Colombia
+1534,Iran,Iraq
+1535,Iran,Egypt
+1536,Iran,Kenya
+1537,Iran,Sudan
+1538,Iran,North Korea
+1539,Iran,Syria
+1540,Iran,Zambia
+1541,Iran,India
+1542,Iran,France
+1543,Iran,Germany
+1544,Iran,Netherlands
+1545,Iran,Poland
+1546,Iran,Canada
+1547,Iran,Belgium
+1548,Iran,Türkiye
+1549,Iran,Cuba
+1550,Iran,Iceland
+1551,Iran,Palestine
+1552,Iran,Sweden
+1553,Iran,Slovakia
+1554,Iran,Austria
+1555,Iran,Israel
+1556,Iran,Hungary
+1557,Iran,Spain
+1558,Iran,Greece
+1559,Iran,Venezuela
+1560,Iran,Portugal
+1561,Iran,Norway
+1562,Iran,Kazakhstan
+1563,Iran,Azerbaijan
+1564,Iran,United Arab Emirates
+1565,Iran,Qatar
+1566,Iran,Oman
+1567,Iran,Belarus
+1568,Iran,Moldova
+1569,Iran,Kuwait
+1570,Iran,Bahrain
+1571,Iran,Romania
+1572,Iran,Croatia
+1573,Iran,Bulgaria
+1574,Iran,Latvia
+1575,Iran,Uzbekistan
+1576,Iran,Maldives
+1577,Iran,Tajikistan
+1578,Iran,Kyrgyz Republic
+1579,Iran,Turkmenistan
+1580,Iran,Albania
+1581,Iran,Yemen
+1582,Iran,Lebanon
+1583,Iran,Tanzania
+1584,Iran,Czech Republic
+1585,Iran,Finland
+1586,Iran,Lithuania
+1587,Iran,Estonia
+1588,Iran,Slovenia
+1589,Iran,Denmark
+1590,Iran,Kosovo
+1591,Iran,Montenegro
+1592,Iran,North Macedonia
+1593,Iran,Luxembourg
+1594,Iran,Panama
+1595,Iran,Liberia
+1596,Iran,Marshall Islands
+1597,Honduras,China
+1598,Honduras,Taiwan
+1599,Hungary,Afghanistan
+1600,Hungary,United States
+1601,Hungary,Italy
+1602,Hungary,United Kingdom
+1603,Hungary,China
+1604,Hungary,Russia
+1605,Hungary,Saudi Arabia
+1606,Hungary,Ukraine
+1607,Hungary,Iraq
+1608,Hungary,North Korea
+1609,Hungary,Syria
+1610,Hungary,Australia
+1611,Hungary,France
+1612,Hungary,Germany
+1613,Hungary,Netherlands
+1614,Hungary,Poland
+1615,Hungary,Canada
+1616,Hungary,Belgium
+1617,Hungary,Türkiye
+1618,Hungary,Cuba
+1619,Hungary,Iceland
+1620,Hungary,Sweden
+1621,Hungary,Slovakia
+1622,Hungary,Austria
+1623,Hungary,Israel
+1624,Hungary,Iran
+1625,Hungary,Spain
+1626,Hungary,Greece
+1627,Hungary,Venezuela
+1628,Hungary,Portugal
+1629,Hungary,Norway
+1630,Hungary,Belarus
+1631,Hungary,Moldova
+1632,Hungary,Romania
+1633,Hungary,Croatia
+1634,Hungary,Bulgaria
+1635,Hungary,Latvia
+1636,Hungary,Uzbekistan
+1637,Hungary,Albania
+1638,Hungary,Czech Republic
+1639,Hungary,Finland
+1640,Hungary,Lithuania
+1641,Hungary,Estonia
+1642,Hungary,Slovenia
+1643,Hungary,Denmark
+1644,Hungary,Kosovo
+1645,Hungary,Montenegro
+1646,Hungary,North Macedonia
+1647,Hungary,Luxembourg
+1648,Hungary,Georgia
+1649,New Zealand,China
+1650,New Zealand,Russia
+1651,New Zealand,Ukraine
+1652,New Zealand,Hong Kong
+1653,New Zealand,Australia
+1654,Cambodia,United States
+1655,Cyprus,United States
+1656,Cyprus,Russia
+1657,Cyprus,Ukraine
+1658,Cyprus,Switzerland
+1659,Cyprus,Burkina Faso
+1660,Cyprus,Belgium
+1661,Cyprus,Türkiye
+1662,Cyprus,Greece
+1663,Cyprus,Malta
+1664,Cyprus,Latvia
+1665,Spain,United States
+1666,Spain,Italy
+1667,Spain,United Kingdom
+1668,Spain,China
+1669,Spain,Russia
+1670,Spain,Saudi Arabia
+1671,Spain,Ukraine
+1672,Spain,Papua New Guinea
+1673,Spain,Iraq
+1674,Spain,Switzerland
+1675,Spain,Hong Kong
+1676,Spain,North Korea
+1677,Spain,Syria
+1678,Spain,South Korea
+1679,Spain,India
+1680,Spain,France
+1681,Spain,Germany
+1682,Spain,Netherlands
+1683,Spain,Poland
+1684,Spain,Canada
+1685,Spain,Belgium
+1686,Spain,Türkiye
+1687,Spain,Iceland
+1688,Spain,Sweden
+1689,Spain,Slovakia
+1690,Spain,Israel
+1691,Spain,Iran
+1692,Spain,Hungary
+1693,Spain,Greece
+1694,Spain,Portugal
+1695,Spain,Norway
+1696,Spain,Morocco
+1697,Spain,Oman
+1698,Spain,Belarus
+1699,Spain,Moldova
+1700,Spain,Bahrain
+1701,Spain,Romania
+1702,Spain,Croatia
+1703,Spain,Bulgaria
+1704,Spain,Latvia
+1705,Spain,Albania
+1706,Spain,Czech Republic
+1707,Spain,Finland
+1708,Spain,Lithuania
+1709,Spain,Estonia
+1710,Spain,Slovenia
+1711,Spain,Denmark
+1712,Spain,Kosovo
+1713,Spain,Montenegro
+1714,Spain,North Macedonia
+1715,Spain,Luxembourg
+1716,Greece,United States
+1717,Greece,Italy
+1718,Greece,United Kingdom
+1719,Greece,China
+1720,Greece,Russia
+1721,Greece,Ukraine
+1722,Greece,Iraq
+1723,Greece,Burkina Faso
+1724,Greece,North Korea
+1725,Greece,Syria
+1726,Greece,France
+1727,Greece,Germany
+1728,Greece,Netherlands
+1729,Greece,Poland
+1730,Greece,Canada
+1731,Greece,Belgium
+1732,Greece,Türkiye
+1733,Greece,Iceland
+1734,Greece,Sweden
+1735,Greece,Slovakia
+1736,Greece,Israel
+1737,Greece,Iran
+1738,Greece,Hungary
+1739,Greece,Cyprus
+1740,Greece,Spain
+1741,Greece,Portugal
+1742,Greece,Norway
+1743,Greece,Morocco
+1744,Greece,Belarus
+1745,Greece,Moldova
+1746,Greece,Romania
+1747,Greece,Croatia
+1748,Greece,Bulgaria
+1749,Greece,Malta
+1750,Greece,Latvia
+1751,Greece,Albania
+1752,Greece,Czech Republic
+1753,Greece,Finland
+1754,Greece,Lithuania
+1755,Greece,Estonia
+1756,Greece,Slovenia
+1757,Greece,Denmark
+1758,Greece,Kosovo
+1759,Greece,Montenegro
+1760,Greece,North Macedonia
+1761,Greece,Luxembourg
+1762,Venezuela,Afghanistan
+1763,Venezuela,United States
+1764,Venezuela,United Kingdom
+1765,Venezuela,China
+1766,Venezuela,Russia
+1767,Venezuela,Saudi Arabia
+1768,Venezuela,Ukraine
+1769,Venezuela,Colombia
+1770,Venezuela,Syria
+1771,Venezuela,France
+1772,Venezuela,Germany
+1773,Venezuela,Poland
+1774,Venezuela,Belgium
+1775,Venezuela,Türkiye
+1776,Venezuela,Cuba
+1777,Venezuela,Slovakia
+1778,Venezuela,Israel
+1779,Venezuela,Iran
+1780,Venezuela,Hungary
+1781,Venezuela,Moldova
+1782,Venezuela,Romania
+1783,Venezuela,Latvia
+1784,Venezuela,Uzbekistan
+1785,Venezuela,Czech Republic
+1786,Venezuela,Lithuania
+1787,Venezuela,Estonia
+1788,Venezuela,Georgia
+1789,Serbia,United States
+1790,Serbia,Russia
+1791,Serbia,Kosovo
+1792,Serbia,Angola
+1793,Portugal,United States
+1794,Portugal,Italy
+1795,Portugal,United Kingdom
+1796,Portugal,China
+1797,Portugal,Russia
+1798,Portugal,Ukraine
+1799,Portugal,Iraq
+1800,Portugal,Switzerland
+1801,Portugal,Brazil
+1802,Portugal,North Korea
+1803,Portugal,Syria
+1804,Portugal,France
+1805,Portugal,Germany
+1806,Portugal,Netherlands
+1807,Portugal,Poland
+1808,Portugal,Canada
+1809,Portugal,Belgium
+1810,Portugal,Türkiye
+1811,Portugal,Iceland
+1812,Portugal,Sweden
+1813,Portugal,Slovakia
+1814,Portugal,Israel
+1815,Portugal,Iran
+1816,Portugal,Hungary
+1817,Portugal,Spain
+1818,Portugal,Greece
+1819,Portugal,Peru
+1820,Portugal,Norway
+1821,Portugal,Morocco
+1822,Portugal,Belarus
+1823,Portugal,Moldova
+1824,Portugal,Romania
+1825,Portugal,Croatia
+1826,Portugal,Bulgaria
+1827,Portugal,Latvia
+1828,Portugal,Albania
+1829,Portugal,Czech Republic
+1830,Portugal,Finland
+1831,Portugal,Lithuania
+1832,Portugal,Estonia
+1833,Portugal,Slovenia
+1834,Portugal,Denmark
+1835,Portugal,Kosovo
+1836,Portugal,Montenegro
+1837,Portugal,North Macedonia
+1838,Portugal,Luxembourg
+1839,Peru,United States
+1840,Peru,Brazil
+1841,Peru,Portugal
+1842,Peru,Aruba
+1843,Norway,United States
+1844,Norway,Italy
+1845,Norway,United Kingdom
+1846,Norway,China
+1847,Norway,Russia
+1848,Norway,Ukraine
+1849,Norway,Iraq
+1850,Norway,North Korea
+1851,Norway,Syria
+1852,Norway,France
+1853,Norway,Germany
+1854,Norway,Netherlands
+1855,Norway,Poland
+1856,Norway,Canada
+1857,Norway,Belgium
+1858,Norway,Türkiye
+1859,Norway,Iceland
+1860,Norway,Sweden
+1861,Norway,Slovakia
+1862,Norway,Israel
+1863,Norway,Iran
+1864,Norway,Hungary
+1865,Norway,Spain
+1866,Norway,Greece
+1867,Norway,Portugal
+1868,Norway,Belarus
+1869,Norway,Moldova
+1870,Norway,Romania
+1871,Norway,Croatia
+1872,Norway,Bulgaria
+1873,Norway,Latvia
+1874,Norway,Albania
+1875,Norway,Czech Republic
+1876,Norway,Finland
+1877,Norway,Lithuania
+1878,Norway,Estonia
+1879,Norway,Slovenia
+1880,Norway,Denmark
+1881,Norway,Kosovo
+1882,Norway,Montenegro
+1883,Norway,North Macedonia
+1884,Norway,Luxembourg
+1885,Mexico,United States
+1886,Mexico,Thailand
+1887,Mexico,China
+1888,Mexico,Russia
+1889,Mexico,Brazil
+1890,Mexico,India
+1891,Mexico,Canada
+1892,Uganda,United Kingdom
+1893,Uganda,Egypt
+1894,Uganda,Kenya
+1895,Uganda,Morocco
+1896,Uganda,Maldives
+1897,Uganda,Tanzania
+1898,Kazakhstan,Afghanistan
+1899,Kazakhstan,United States
+1900,Kazakhstan,Italy
+1901,Kazakhstan,Pakistan
+1902,Kazakhstan,United Kingdom
+1903,Kazakhstan,China
+1904,Kazakhstan,Russia
+1905,Kazakhstan,Saudi Arabia
+1906,Kazakhstan,Ukraine
+1907,Kazakhstan,Colombia
+1908,Kazakhstan,Switzerland
+1909,Kazakhstan,Egypt
+1910,Kazakhstan,Japan
+1911,Kazakhstan,Mongolia
+1912,Kazakhstan,South Korea
+1913,Kazakhstan,India
+1914,Kazakhstan,France
+1915,Kazakhstan,Germany
+1916,Kazakhstan,Belgium
+1917,Kazakhstan,Türkiye
+1918,Kazakhstan,Austria
+1919,Kazakhstan,Iran
+1920,Kazakhstan,Azerbaijan
+1921,Kazakhstan,Qatar
+1922,Kazakhstan,Belarus
+1923,Kazakhstan,Latvia
+1924,Kazakhstan,Uzbekistan
+1925,Kazakhstan,Maldives
+1926,Kazakhstan,Tajikistan
+1927,Kazakhstan,Kyrgyz Republic
+1928,Kazakhstan,Turkmenistan
+1929,Bahamas,United States
+1930,Ethiopia,United States
+1931,Azerbaijan,Afghanistan
+1932,Azerbaijan,United States
+1933,Azerbaijan,China
+1934,Azerbaijan,Russia
+1935,Azerbaijan,Saudi Arabia
+1936,Azerbaijan,Colombia
+1937,Azerbaijan,Egypt
+1938,Azerbaijan,India
+1939,Azerbaijan,Türkiye
+1940,Azerbaijan,Iran
+1941,Azerbaijan,Kazakhstan
+1942,Azerbaijan,Qatar
+1943,Azerbaijan,Uzbekistan
+1944,Azerbaijan,Maldives
+1945,Azerbaijan,Tajikistan
+1946,Azerbaijan,Kyrgyz Republic
+1947,Azerbaijan,Turkmenistan
+1948,Morocco,Egypt
+1949,Morocco,Kenya
+1950,Morocco,Spain
+1951,Morocco,Greece
+1952,Morocco,Portugal
+1953,Morocco,Uganda
+1954,Morocco,Maldives
+1955,Morocco,Tanzania
+1956,United Arab Emirates,United States
+1957,United Arab Emirates,United Kingdom
+1958,United Arab Emirates,Russia
+1959,United Arab Emirates,Saudi Arabia
+1960,United Arab Emirates,Ukraine
+1961,United Arab Emirates,Sudan
+1962,United Arab Emirates,Australia
+1963,United Arab Emirates,Iran
+1964,United Arab Emirates,Qatar
+1965,United Arab Emirates,Oman
+1966,United Arab Emirates,Libya
+1967,United Arab Emirates,Kuwait
+1968,United Arab Emirates,Bahrain
+1969,United Arab Emirates,Algeria
+1970,United Arab Emirates,Albania
+1971,United Arab Emirates,Yemen
+1972,United Arab Emirates,Lithuania
+1973,Qatar,Afghanistan
+1974,Qatar,United States
+1975,Qatar,Uruguay
+1976,Qatar,Pakistan
+1977,Qatar,United Kingdom
+1978,Qatar,China
+1979,Qatar,Russia
+1980,Qatar,Saudi Arabia
+1981,Qatar,Ukraine
+1982,Qatar,Colombia
+1983,Qatar,Papua New Guinea
+1984,Qatar,Iraq
+1985,Qatar,Egypt
+1986,Qatar,Syria
+1987,Qatar,India
+1988,Qatar,Belgium
+1989,Qatar,Türkiye
+1990,Qatar,Austria
+1991,Qatar,Iran
+1992,Qatar,Kazakhstan
+1993,Qatar,Azerbaijan
+1994,Qatar,United Arab Emirates
+1995,Qatar,Libya
+1996,Qatar,Kuwait
+1997,Qatar,Bahrain
+1998,Qatar,Algeria
+1999,Qatar,Uzbekistan
+2000,Qatar,Maldives
+2001,Qatar,Tajikistan
+2002,Qatar,Kyrgyz Republic
+2003,Qatar,Turkmenistan
+2004,Qatar,Albania
+2005,Qatar,Yemen
+2006,Qatar,Lebanon
+2007,Oman,United States
+2008,Oman,Italy
+2009,Oman,United Kingdom
+2010,Oman,Saudi Arabia
+2011,Oman,Papua New Guinea
+2012,Oman,Switzerland
+2013,Oman,Hong Kong
+2014,Oman,South Korea
+2015,Oman,India
+2016,Oman,France
+2017,Oman,Iran
+2018,Oman,Spain
+2019,Oman,United Arab Emirates
+2020,Oman,Bahrain
+2021,Vietnam,Thailand
+2022,Vietnam,China
+2023,Jordan,United States
+2024,Jordan,Syria
+2025,Jordan,Türkiye
+2026,Jordan,Israel
+2027,Jordan,Bahrain
+2028,Jordan,Lebanon
+2029,Libya,United Kingdom
+2030,Libya,Russia
+2031,Libya,Saudi Arabia
+2032,Libya,Ukraine
+2033,Libya,United Arab Emirates
+2034,Libya,Qatar
+2035,Libya,Kuwait
+2036,Libya,Bahrain
+2037,Libya,Algeria
+2038,Belarus,United States
+2039,Belarus,Italy
+2040,Belarus,United Kingdom
+2041,Belarus,China
+2042,Belarus,Russia
+2043,Belarus,Ukraine
+2044,Belarus,Colombia
+2045,Belarus,Iraq
+2046,Belarus,Switzerland
+2047,Belarus,Brazil
+2048,Belarus,Japan
+2049,Belarus,Kenya
+2050,Belarus,Sudan
+2051,Belarus,North Korea
+2052,Belarus,Syria
+2053,Belarus,South Korea
+2054,Belarus,France
+2055,Belarus,Germany
+2056,Belarus,Netherlands
+2057,Belarus,Poland
+2058,Belarus,Canada
+2059,Belarus,Belgium
+2060,Belarus,Türkiye
+2061,Belarus,Cuba
+2062,Belarus,Iceland
+2063,Belarus,Sweden
+2064,Belarus,Slovakia
+2065,Belarus,Austria
+2066,Belarus,Israel
+2067,Belarus,Iran
+2068,Belarus,Hungary
+2069,Belarus,Spain
+2070,Belarus,Greece
+2071,Belarus,Portugal
+2072,Belarus,Norway
+2073,Belarus,Kazakhstan
+2074,Belarus,Moldova
+2075,Belarus,Romania
+2076,Belarus,Croatia
+2077,Belarus,Bulgaria
+2078,Belarus,Latvia
+2079,Belarus,Uzbekistan
+2080,Belarus,Albania
+2081,Belarus,Tanzania
+2082,Belarus,Czech Republic
+2083,Belarus,Finland
+2084,Belarus,Lithuania
+2085,Belarus,Estonia
+2086,Belarus,Slovenia
+2087,Belarus,Denmark
+2088,Belarus,Kosovo
+2089,Belarus,Montenegro
+2090,Belarus,North Macedonia
+2091,Belarus,Luxembourg
+2092,Benin,Argentina
+2093,Niger,Afghanistan
+2094,Niger,DR Congo
+2095,Niger,Nigeria
+2096,Niger,Papua New Guinea
+2097,Niger,Mali
+2098,Niger,Syria
+2099,Niger,Palestine
+2100,Niger,Yemen
+2101,Niger,Haiti
+2102,Moldova,United States
+2103,Moldova,Italy
+2104,Moldova,United Kingdom
+2105,Moldova,China
+2106,Moldova,Russia
+2107,Moldova,Ukraine
+2108,Moldova,Iraq
+2109,Moldova,North Korea
+2110,Moldova,Syria
+2111,Moldova,France
+2112,Moldova,Germany
+2113,Moldova,Netherlands
+2114,Moldova,Poland
+2115,Moldova,Canada
+2116,Moldova,Belgium
+2117,Moldova,Türkiye
+2118,Moldova,Cuba
+2119,Moldova,Iceland
+2120,Moldova,Sweden
+2121,Moldova,Slovakia
+2122,Moldova,Israel
+2123,Moldova,Iran
+2124,Moldova,Hungary
+2125,Moldova,Spain
+2126,Moldova,Greece
+2127,Moldova,Venezuela
+2128,Moldova,Portugal
+2129,Moldova,Norway
+2130,Moldova,Belarus
+2131,Moldova,Romania
+2132,Moldova,Croatia
+2133,Moldova,Bulgaria
+2134,Moldova,Latvia
+2135,Moldova,Albania
+2136,Moldova,Czech Republic
+2137,Moldova,Finland
+2138,Moldova,Lithuania
+2139,Moldova,Estonia
+2140,Moldova,Slovenia
+2141,Moldova,Denmark
+2142,Moldova,Kosovo
+2143,Moldova,Montenegro
+2144,Moldova,North Macedonia
+2145,Moldova,Luxembourg
+2146,Moldova,Georgia
+2147,Nicaragua,United States
+2148,Nicaragua,Cuba
+2149,Rwanda,Netherlands
+2150,Puerto Rico,United States
+2151,Kuwait,Afghanistan
+2152,Kuwait,United States
+2153,Kuwait,Italy
+2154,Kuwait,United Kingdom
+2155,Kuwait,Russia
+2156,Kuwait,Saudi Arabia
+2157,Kuwait,Ukraine
+2158,Kuwait,Iraq
+2159,Kuwait,Sudan
+2160,Kuwait,Canada
+2161,Kuwait,South Africa
+2162,Kuwait,Iran
+2163,Kuwait,United Arab Emirates
+2164,Kuwait,Qatar
+2165,Kuwait,Libya
+2166,Kuwait,Bahrain
+2167,Kuwait,Algeria
+2168,Kuwait,Yemen
+2169,Kuwait,Denmark
+2170,Bahrain,United States
+2171,Bahrain,Uruguay
+2172,Bahrain,Italy
+2173,Bahrain,Pakistan
+2174,Bahrain,United Kingdom
+2175,Bahrain,Russia
+2176,Bahrain,Saudi Arabia
+2177,Bahrain,Ukraine
+2178,Bahrain,Papua New Guinea
+2179,Bahrain,Switzerland
+2180,Bahrain,Egypt
+2181,Bahrain,Hong Kong
+2182,Bahrain,Japan
+2183,Bahrain,Sudan
+2184,Bahrain,Australia
+2185,Bahrain,South Korea
+2186,Bahrain,India
+2187,Bahrain,France
+2188,Bahrain,Israel
+2189,Bahrain,Iran
+2190,Bahrain,Spain
+2191,Bahrain,United Arab Emirates
+2192,Bahrain,Qatar
+2193,Bahrain,Oman
+2194,Bahrain,Jordan
+2195,Bahrain,Libya
+2196,Bahrain,Kuwait
+2197,Bahrain,Algeria
+2198,Bahrain,Albania
+2199,Bahrain,Yemen
+2200,Bahrain,Lebanon
+2201,Bahrain,Lithuania
+2202,Bahrain,Liberia
+2203,Algeria,United Kingdom
+2204,Algeria,Russia
+2205,Algeria,Saudi Arabia
+2206,Algeria,Ukraine
+2207,Algeria,United Arab Emirates
+2208,Algeria,Qatar
+2209,Algeria,Libya
+2210,Algeria,Kuwait
+2211,Algeria,Bahrain
+2212,Myanmar,China
+2213,Myanmar,Russia
+2214,Myanmar,Philippines
+2215,Myanmar,Tonga
+2216,Myanmar,Laos
+2217,Myanmar,Indonesia
+2218,Myanmar,Bangladesh
+2219,Romania,United States
+2220,Romania,Italy
+2221,Romania,United Kingdom
+2222,Romania,China
+2223,Romania,Russia
+2224,Romania,Ukraine
+2225,Romania,Iraq
+2226,Romania,North Korea
+2227,Romania,Syria
+2228,Romania,France
+2229,Romania,Germany
+2230,Romania,Netherlands
+2231,Romania,Poland
+2232,Romania,Canada
+2233,Romania,Belgium
+2234,Romania,Türkiye
+2235,Romania,Cuba
+2236,Romania,Iceland
+2237,Romania,Sweden
+2238,Romania,Slovakia
+2239,Romania,Austria
+2240,Romania,Israel
+2241,Romania,Iran
+2242,Romania,Hungary
+2243,Romania,Spain
+2244,Romania,Greece
+2245,Romania,Venezuela
+2246,Romania,Portugal
+2247,Romania,Norway
+2248,Romania,Belarus
+2249,Romania,Moldova
+2250,Romania,Croatia
+2251,Romania,Bulgaria
+2252,Romania,Latvia
+2253,Romania,Albania
+2254,Romania,Czech Republic
+2255,Romania,Finland
+2256,Romania,Lithuania
+2257,Romania,Estonia
+2258,Romania,Slovenia
+2259,Romania,Denmark
+2260,Romania,Kosovo
+2261,Romania,Montenegro
+2262,Romania,North Macedonia
+2263,Romania,Luxembourg
+2264,Romania,Georgia
+2265,Croatia,United States
+2266,Croatia,Italy
+2267,Croatia,United Kingdom
+2268,Croatia,China
+2269,Croatia,Russia
+2270,Croatia,Ukraine
+2271,Croatia,Iraq
+2272,Croatia,North Korea
+2273,Croatia,Syria
+2274,Croatia,France
+2275,Croatia,Germany
+2276,Croatia,Netherlands
+2277,Croatia,Poland
+2278,Croatia,Canada
+2279,Croatia,Belgium
+2280,Croatia,Türkiye
+2281,Croatia,Iceland
+2282,Croatia,Sweden
+2283,Croatia,Slovakia
+2284,Croatia,Israel
+2285,Croatia,Iran
+2286,Croatia,Hungary
+2287,Croatia,Spain
+2288,Croatia,Greece
+2289,Croatia,Portugal
+2290,Croatia,Norway
+2291,Croatia,Belarus
+2292,Croatia,Moldova
+2293,Croatia,Romania
+2294,Croatia,Bulgaria
+2295,Croatia,Latvia
+2296,Croatia,Albania
+2297,Croatia,Czech Republic
+2298,Croatia,Finland
+2299,Croatia,Lithuania
+2300,Croatia,Estonia
+2301,Croatia,Slovenia
+2302,Croatia,Denmark
+2303,Croatia,Kosovo
+2304,Croatia,Montenegro
+2305,Croatia,North Macedonia
+2306,Croatia,Luxembourg
+2307,Bulgaria,United States
+2308,Bulgaria,Italy
+2309,Bulgaria,United Kingdom
+2310,Bulgaria,China
+2311,Bulgaria,Russia
+2312,Bulgaria,Ukraine
+2313,Bulgaria,Iraq
+2314,Bulgaria,North Korea
+2315,Bulgaria,Syria
+2316,Bulgaria,France
+2317,Bulgaria,Germany
+2318,Bulgaria,Netherlands
+2319,Bulgaria,Poland
+2320,Bulgaria,Canada
+2321,Bulgaria,Belgium
+2322,Bulgaria,Türkiye
+2323,Bulgaria,Iceland
+2324,Bulgaria,Sweden
+2325,Bulgaria,Slovakia
+2326,Bulgaria,Israel
+2327,Bulgaria,Iran
+2328,Bulgaria,Hungary
+2329,Bulgaria,Spain
+2330,Bulgaria,Greece
+2331,Bulgaria,Portugal
+2332,Bulgaria,Norway
+2333,Bulgaria,Belarus
+2334,Bulgaria,Moldova
+2335,Bulgaria,Romania
+2336,Bulgaria,Croatia
+2337,Bulgaria,Latvia
+2338,Bulgaria,Albania
+2339,Bulgaria,Czech Republic
+2340,Bulgaria,Finland
+2341,Bulgaria,Lithuania
+2342,Bulgaria,Estonia
+2343,Bulgaria,Slovenia
+2344,Bulgaria,Denmark
+2345,Bulgaria,Kosovo
+2346,Bulgaria,Montenegro
+2347,Bulgaria,North Macedonia
+2348,Bulgaria,Luxembourg
+2349,Malta,United States
+2350,Malta,Russia
+2351,Malta,Ukraine
+2352,Malta,Burkina Faso
+2353,Malta,Belgium
+2354,Malta,Türkiye
+2355,Malta,Cyprus
+2356,Malta,Greece
+2357,Latvia,United States
+2358,Latvia,Italy
+2359,Latvia,United Kingdom
+2360,Latvia,China
+2361,Latvia,Russia
+2362,Latvia,Ukraine
+2363,Latvia,Iraq
+2364,Latvia,Switzerland
+2365,Latvia,North Korea
+2366,Latvia,Syria
+2367,Latvia,France
+2368,Latvia,Germany
+2369,Latvia,Netherlands
+2370,Latvia,Poland
+2371,Latvia,Canada
+2372,Latvia,Belgium
+2373,Latvia,Türkiye
+2374,Latvia,Cuba
+2375,Latvia,Iceland
+2376,Latvia,Sweden
+2377,Latvia,Slovakia
+2378,Latvia,Israel
+2379,Latvia,Iran
+2380,Latvia,Hungary
+2381,Latvia,Cyprus
+2382,Latvia,Spain
+2383,Latvia,Greece
+2384,Latvia,Venezuela
+2385,Latvia,Portugal
+2386,Latvia,Norway
+2387,Latvia,Kazakhstan
+2388,Latvia,Belarus
+2389,Latvia,Moldova
+2390,Latvia,Romania
+2391,Latvia,Croatia
+2392,Latvia,Bulgaria
+2393,Latvia,Albania
+2394,Latvia,Czech Republic
+2395,Latvia,Finland
+2396,Latvia,Lithuania
+2397,Latvia,Estonia
+2398,Latvia,Slovenia
+2399,Latvia,Denmark
+2400,Latvia,Kosovo
+2401,Latvia,Montenegro
+2402,Latvia,North Macedonia
+2403,Latvia,Luxembourg
+2404,Latvia,Georgia
+2405,Uzbekistan,Afghanistan
+2406,Uzbekistan,United States
+2407,Uzbekistan,Pakistan
+2408,Uzbekistan,United Kingdom
+2409,Uzbekistan,China
+2410,Uzbekistan,Russia
+2411,Uzbekistan,Saudi Arabia
+2412,Uzbekistan,Ukraine
+2413,Uzbekistan,Colombia
+2414,Uzbekistan,Egypt
+2415,Uzbekistan,Japan
+2416,Uzbekistan,Mongolia
+2417,Uzbekistan,Syria
+2418,Uzbekistan,South Korea
+2419,Uzbekistan,India
+2420,Uzbekistan,France
+2421,Uzbekistan,Germany
+2422,Uzbekistan,Belgium
+2423,Uzbekistan,Türkiye
+2424,Uzbekistan,Cuba
+2425,Uzbekistan,Austria
+2426,Uzbekistan,Israel
+2427,Uzbekistan,Iran
+2428,Uzbekistan,Hungary
+2429,Uzbekistan,Venezuela
+2430,Uzbekistan,Kazakhstan
+2431,Uzbekistan,Azerbaijan
+2432,Uzbekistan,Qatar
+2433,Uzbekistan,Belarus
+2434,Uzbekistan,Maldives
+2435,Uzbekistan,Tajikistan
+2436,Uzbekistan,Kyrgyz Republic
+2437,Uzbekistan,Turkmenistan
+2438,Maldives,Afghanistan
+2439,Maldives,United States
+2440,Maldives,China
+2441,Maldives,Russia
+2442,Maldives,Saudi Arabia
+2443,Maldives,Colombia
+2444,Maldives,Egypt
+2445,Maldives,Kenya
+2446,Maldives,India
+2447,Maldives,Türkiye
+2448,Maldives,Iran
+2449,Maldives,Uganda
+2450,Maldives,Kazakhstan
+2451,Maldives,Azerbaijan
+2452,Maldives,Morocco
+2453,Maldives,Qatar
+2454,Maldives,Uzbekistan
+2455,Maldives,Tajikistan
+2456,Maldives,Kyrgyz Republic
+2457,Maldives,Turkmenistan
+2458,Maldives,Tanzania
+2459,Tajikistan,Afghanistan
+2460,Tajikistan,United States
+2461,Tajikistan,Pakistan
+2462,Tajikistan,China
+2463,Tajikistan,Russia
+2464,Tajikistan,Saudi Arabia
+2465,Tajikistan,Colombia
+2466,Tajikistan,Egypt
+2467,Tajikistan,Mongolia
+2468,Tajikistan,India
+2469,Tajikistan,Türkiye
+2470,Tajikistan,South Africa
+2471,Tajikistan,Iran
+2472,Tajikistan,Kazakhstan
+2473,Tajikistan,Azerbaijan
+2474,Tajikistan,Qatar
+2475,Tajikistan,Uzbekistan
+2476,Tajikistan,Maldives
+2477,Tajikistan,Kyrgyz Republic
+2478,Tajikistan,Turkmenistan
+2479,Kyrgyz Republic,United States
+2480,Kyrgyz Republic,Pakistan
+2481,Kyrgyz Republic,Mongolia
+2482,Kyrgyz Republic,Kazakhstan
+2483,Kyrgyz Republic,Uzbekistan
+2484,Kyrgyz Republic,Tajikistan
+2485,Turkmenistan,Afghanistan
+2486,Turkmenistan,United States
+2487,Turkmenistan,China
+2488,Turkmenistan,Russia
+2489,Turkmenistan,Saudi Arabia
+2490,Turkmenistan,Colombia
+2491,Turkmenistan,Egypt
+2492,Turkmenistan,India
+2493,Turkmenistan,Türkiye
+2494,Turkmenistan,Iran
+2495,Turkmenistan,Kazakhstan
+2496,Turkmenistan,Azerbaijan
+2497,Turkmenistan,Qatar
+2498,Turkmenistan,Uzbekistan
+2499,Turkmenistan,Maldives
+2500,Turkmenistan,Tajikistan
+2501,Turkmenistan,Kyrgyz Republic
+2502,Albania,Afghanistan
+2503,Albania,United States
+2504,Albania,Italy
+2505,Albania,United Kingdom
+2506,Albania,China
+2507,Albania,Russia
+2508,Albania,Saudi Arabia
+2509,Albania,Ukraine
+2510,Albania,Iraq
+2511,Albania,North Korea
+2512,Albania,Syria
+2513,Albania,Australia
+2514,Albania,France
+2515,Albania,Germany
+2516,Albania,Netherlands
+2517,Albania,Poland
+2518,Albania,Canada
+2519,Albania,Belgium
+2520,Albania,Türkiye
+2521,Albania,Iceland
+2522,Albania,Sweden
+2523,Albania,Slovakia
+2524,Albania,Austria
+2525,Albania,Israel
+2526,Albania,Iran
+2527,Albania,Hungary
+2528,Albania,Spain
+2529,Albania,Greece
+2530,Albania,Portugal
+2531,Albania,Norway
+2532,Albania,United Arab Emirates
+2533,Albania,Qatar
+2534,Albania,Belarus
+2535,Albania,Moldova
+2536,Albania,Bahrain
+2537,Albania,Romania
+2538,Albania,Croatia
+2539,Albania,Bulgaria
+2540,Albania,Latvia
+2541,Albania,Yemen
+2542,Albania,Lebanon
+2543,Albania,Czech Republic
+2544,Albania,Finland
+2545,Albania,Lithuania
+2546,Albania,Estonia
+2547,Albania,Slovenia
+2548,Albania,Denmark
+2549,Albania,Kosovo
+2550,Albania,Montenegro
+2551,Albania,North Macedonia
+2552,Albania,Luxembourg
+2553,Yemen,Afghanistan
+2554,Yemen,United States
+2555,Yemen,United Kingdom
+2556,Yemen,DR Congo
+2557,Yemen,Nigeria
+2558,Yemen,Russia
+2559,Yemen,Papua New Guinea
+2560,Yemen,Iraq
+2561,Yemen,Mali
+2562,Yemen,Sudan
+2563,Yemen,Syria
+2564,Yemen,Belgium
+2565,Yemen,Türkiye
+2566,Yemen,Palestine
+2567,Yemen,Austria
+2568,Yemen,Iran
+2569,Yemen,United Arab Emirates
+2570,Yemen,Qatar
+2571,Yemen,Oman
+2572,Yemen,Kuwait
+2573,Yemen,Bahrain
+2574,Yemen,Albania
+2575,Yemen,Lebanon
+2576,Yemen,Haiti
+2577,Lebanon,Afghanistan
+2578,Lebanon,United States
+2579,Lebanon,United Kingdom
+2580,Lebanon,Russia
+2581,Lebanon,Iraq
+2582,Lebanon,Egypt
+2583,Lebanon,Syria
+2584,Lebanon,Belgium
+2585,Lebanon,Türkiye
+2586,Lebanon,Austria
+2587,Lebanon,Iran
+2588,Lebanon,Qatar
+2589,Lebanon,Jordan
+2590,Lebanon,Bahrain
+2591,Lebanon,Albania
+2592,Lebanon,Yemen
+2593,Tanzania,United States
+2594,Tanzania,United Kingdom
+2595,Tanzania,Russia
+2596,Tanzania,Ukraine
+2597,Tanzania,Egypt
+2598,Tanzania,Kenya
+2599,Tanzania,Sudan
+2600,Tanzania,North Korea
+2601,Tanzania,Syria
+2602,Tanzania,Türkiye
+2603,Tanzania,Cuba
+2604,Tanzania,Iran
+2605,Tanzania,Uganda
+2606,Tanzania,Morocco
+2607,Tanzania,Belarus
+2608,Tanzania,Maldives
+2609,Tanzania,Central African Republic
+2610,Czech Republic,United States
+2611,Czech Republic,Italy
+2612,Czech Republic,United Kingdom
+2613,Czech Republic,China
+2614,Czech Republic,Russia
+2615,Czech Republic,Ukraine
+2616,Czech Republic,Iraq
+2617,Czech Republic,North Korea
+2618,Czech Republic,Syria
+2619,Czech Republic,France
+2620,Czech Republic,Germany
+2621,Czech Republic,Netherlands
+2622,Czech Republic,Poland
+2623,Czech Republic,Canada
+2624,Czech Republic,Belgium
+2625,Czech Republic,Türkiye
+2626,Czech Republic,Cuba
+2627,Czech Republic,Iceland
+2628,Czech Republic,Sweden
+2629,Czech Republic,Slovakia
+2630,Czech Republic,Israel
+2631,Czech Republic,Iran
+2632,Czech Republic,Hungary
+2633,Czech Republic,Spain
+2634,Czech Republic,Greece
+2635,Czech Republic,Venezuela
+2636,Czech Republic,Portugal
+2637,Czech Republic,Norway
+2638,Czech Republic,Belarus
+2639,Czech Republic,Moldova
+2640,Czech Republic,Romania
+2641,Czech Republic,Croatia
+2642,Czech Republic,Bulgaria
+2643,Czech Republic,Latvia
+2644,Czech Republic,Albania
+2645,Czech Republic,Finland
+2646,Czech Republic,Lithuania
+2647,Czech Republic,Estonia
+2648,Czech Republic,Slovenia
+2649,Czech Republic,Denmark
+2650,Czech Republic,Kosovo
+2651,Czech Republic,Montenegro
+2652,Czech Republic,North Macedonia
+2653,Czech Republic,Luxembourg
+2654,Czech Republic,Georgia
+2655,Finland,United States
+2656,Finland,Italy
+2657,Finland,United Kingdom
+2658,Finland,China
+2659,Finland,Russia
+2660,Finland,Ukraine
+2661,Finland,Iraq
+2662,Finland,North Korea
+2663,Finland,Syria
+2664,Finland,France
+2665,Finland,Germany
+2666,Finland,Netherlands
+2667,Finland,Poland
+2668,Finland,Canada
+2669,Finland,Belgium
+2670,Finland,Türkiye
+2671,Finland,Iceland
+2672,Finland,Sweden
+2673,Finland,Slovakia
+2674,Finland,Israel
+2675,Finland,Iran
+2676,Finland,Hungary
+2677,Finland,Spain
+2678,Finland,Greece
+2679,Finland,Portugal
+2680,Finland,Norway
+2681,Finland,Belarus
+2682,Finland,Moldova
+2683,Finland,Romania
+2684,Finland,Croatia
+2685,Finland,Bulgaria
+2686,Finland,Latvia
+2687,Finland,Albania
+2688,Finland,Czech Republic
+2689,Finland,Lithuania
+2690,Finland,Estonia
+2691,Finland,Slovenia
+2692,Finland,Denmark
+2693,Finland,Kosovo
+2694,Finland,Montenegro
+2695,Finland,North Macedonia
+2696,Finland,Luxembourg
+2697,Lithuania,United States
+2698,Lithuania,Italy
+2699,Lithuania,United Kingdom
+2700,Lithuania,China
+2701,Lithuania,Russia
+2702,Lithuania,Saudi Arabia
+2703,Lithuania,Ukraine
+2704,Lithuania,Iraq
+2705,Lithuania,North Korea
+2706,Lithuania,Syria
+2707,Lithuania,Australia
+2708,Lithuania,India
+2709,Lithuania,France
+2710,Lithuania,Germany
+2711,Lithuania,Netherlands
+2712,Lithuania,Poland
+2713,Lithuania,Canada
+2714,Lithuania,Belgium
+2715,Lithuania,Türkiye
+2716,Lithuania,Cuba
+2717,Lithuania,Iceland
+2718,Lithuania,Sweden
+2719,Lithuania,Slovakia
+2720,Lithuania,Israel
+2721,Lithuania,Iran
+2722,Lithuania,Hungary
+2723,Lithuania,Spain
+2724,Lithuania,Greece
+2725,Lithuania,Venezuela
+2726,Lithuania,Portugal
+2727,Lithuania,Norway
+2728,Lithuania,United Arab Emirates
+2729,Lithuania,Belarus
+2730,Lithuania,Moldova
+2731,Lithuania,Bahrain
+2732,Lithuania,Romania
+2733,Lithuania,Croatia
+2734,Lithuania,Bulgaria
+2735,Lithuania,Latvia
+2736,Lithuania,Albania
+2737,Lithuania,Czech Republic
+2738,Lithuania,Finland
+2739,Lithuania,Estonia
+2740,Lithuania,Slovenia
+2741,Lithuania,Denmark
+2742,Lithuania,Kosovo
+2743,Lithuania,Montenegro
+2744,Lithuania,North Macedonia
+2745,Lithuania,Luxembourg
+2746,Lithuania,Georgia
+2747,Estonia,United States
+2748,Estonia,Italy
+2749,Estonia,United Kingdom
+2750,Estonia,China
+2751,Estonia,Russia
+2752,Estonia,Ukraine
+2753,Estonia,Iraq
+2754,Estonia,North Korea
+2755,Estonia,Syria
+2756,Estonia,France
+2757,Estonia,Germany
+2758,Estonia,Netherlands
+2759,Estonia,Poland
+2760,Estonia,Canada
+2761,Estonia,Belgium
+2762,Estonia,Türkiye
+2763,Estonia,Cuba
+2764,Estonia,Iceland
+2765,Estonia,Sweden
+2766,Estonia,Slovakia
+2767,Estonia,Israel
+2768,Estonia,Iran
+2769,Estonia,Hungary
+2770,Estonia,Spain
+2771,Estonia,Greece
+2772,Estonia,Venezuela
+2773,Estonia,Portugal
+2774,Estonia,Norway
+2775,Estonia,Belarus
+2776,Estonia,Moldova
+2777,Estonia,Romania
+2778,Estonia,Croatia
+2779,Estonia,Bulgaria
+2780,Estonia,Latvia
+2781,Estonia,Albania
+2782,Estonia,Czech Republic
+2783,Estonia,Finland
+2784,Estonia,Lithuania
+2785,Estonia,Slovenia
+2786,Estonia,Denmark
+2787,Estonia,Kosovo
+2788,Estonia,Montenegro
+2789,Estonia,North Macedonia
+2790,Estonia,Luxembourg
+2791,Estonia,Georgia
+2792,Slovenia,United States
+2793,Slovenia,Italy
+2794,Slovenia,United Kingdom
+2795,Slovenia,China
+2796,Slovenia,Russia
+2797,Slovenia,Ukraine
+2798,Slovenia,Iraq
+2799,Slovenia,North Korea
+2800,Slovenia,Syria
+2801,Slovenia,France
+2802,Slovenia,Germany
+2803,Slovenia,Netherlands
+2804,Slovenia,Poland
+2805,Slovenia,Canada
+2806,Slovenia,Belgium
+2807,Slovenia,Türkiye
+2808,Slovenia,Iceland
+2809,Slovenia,Sweden
+2810,Slovenia,Slovakia
+2811,Slovenia,Israel
+2812,Slovenia,Iran
+2813,Slovenia,Hungary
+2814,Slovenia,Spain
+2815,Slovenia,Greece
+2816,Slovenia,Portugal
+2817,Slovenia,Norway
+2818,Slovenia,Belarus
+2819,Slovenia,Moldova
+2820,Slovenia,Romania
+2821,Slovenia,Croatia
+2822,Slovenia,Bulgaria
+2823,Slovenia,Latvia
+2824,Slovenia,Albania
+2825,Slovenia,Czech Republic
+2826,Slovenia,Finland
+2827,Slovenia,Lithuania
+2828,Slovenia,Estonia
+2829,Slovenia,Denmark
+2830,Slovenia,Kosovo
+2831,Slovenia,Montenegro
+2832,Slovenia,North Macedonia
+2833,Slovenia,Luxembourg
+2834,Denmark,United States
+2835,Denmark,Italy
+2836,Denmark,United Kingdom
+2837,Denmark,China
+2838,Denmark,Russia
+2839,Denmark,Ukraine
+2840,Denmark,Iraq
+2841,Denmark,North Korea
+2842,Denmark,Syria
+2843,Denmark,France
+2844,Denmark,Germany
+2845,Denmark,Netherlands
+2846,Denmark,Poland
+2847,Denmark,Canada
+2848,Denmark,Belgium
+2849,Denmark,Türkiye
+2850,Denmark,Iceland
+2851,Denmark,Sweden
+2852,Denmark,Slovakia
+2853,Denmark,Israel
+2854,Denmark,Iran
+2855,Denmark,Hungary
+2856,Denmark,Spain
+2857,Denmark,Greece
+2858,Denmark,Portugal
+2859,Denmark,Norway
+2860,Denmark,Belarus
+2861,Denmark,Moldova
+2862,Denmark,Kuwait
+2863,Denmark,Romania
+2864,Denmark,Croatia
+2865,Denmark,Bulgaria
+2866,Denmark,Latvia
+2867,Denmark,Albania
+2868,Denmark,Czech Republic
+2869,Denmark,Finland
+2870,Denmark,Lithuania
+2871,Denmark,Estonia
+2872,Denmark,Slovenia
+2873,Denmark,Kosovo
+2874,Denmark,Montenegro
+2875,Denmark,North Macedonia
+2876,Denmark,Luxembourg
+2877,Kosovo,United States
+2878,Kosovo,Italy
+2879,Kosovo,United Kingdom
+2880,Kosovo,China
+2881,Kosovo,Russia
+2882,Kosovo,Ukraine
+2883,Kosovo,Iraq
+2884,Kosovo,North Korea
+2885,Kosovo,Syria
+2886,Kosovo,France
+2887,Kosovo,Germany
+2888,Kosovo,Netherlands
+2889,Kosovo,Poland
+2890,Kosovo,Canada
+2891,Kosovo,Belgium
+2892,Kosovo,Türkiye
+2893,Kosovo,Iceland
+2894,Kosovo,South Africa
+2895,Kosovo,Sweden
+2896,Kosovo,Slovakia
+2897,Kosovo,Israel
+2898,Kosovo,Iran
+2899,Kosovo,Hungary
+2900,Kosovo,Spain
+2901,Kosovo,Greece
+2902,Kosovo,Serbia
+2903,Kosovo,Portugal
+2904,Kosovo,Norway
+2905,Kosovo,Belarus
+2906,Kosovo,Moldova
+2907,Kosovo,Romania
+2908,Kosovo,Croatia
+2909,Kosovo,Bulgaria
+2910,Kosovo,Latvia
+2911,Kosovo,Albania
+2912,Kosovo,Czech Republic
+2913,Kosovo,Finland
+2914,Kosovo,Lithuania
+2915,Kosovo,Estonia
+2916,Kosovo,Slovenia
+2917,Kosovo,Denmark
+2918,Kosovo,Montenegro
+2919,Kosovo,North Macedonia
+2920,Kosovo,Luxembourg
+2921,Montenegro,United States
+2922,Montenegro,Italy
+2923,Montenegro,United Kingdom
+2924,Montenegro,China
+2925,Montenegro,Russia
+2926,Montenegro,Ukraine
+2927,Montenegro,Iraq
+2928,Montenegro,North Korea
+2929,Montenegro,Syria
+2930,Montenegro,France
+2931,Montenegro,Germany
+2932,Montenegro,Netherlands
+2933,Montenegro,Poland
+2934,Montenegro,Canada
+2935,Montenegro,Belgium
+2936,Montenegro,Türkiye
+2937,Montenegro,Iceland
+2938,Montenegro,Sweden
+2939,Montenegro,Slovakia
+2940,Montenegro,Israel
+2941,Montenegro,Iran
+2942,Montenegro,Hungary
+2943,Montenegro,Spain
+2944,Montenegro,Greece
+2945,Montenegro,Portugal
+2946,Montenegro,Norway
+2947,Montenegro,Belarus
+2948,Montenegro,Moldova
+2949,Montenegro,Romania
+2950,Montenegro,Croatia
+2951,Montenegro,Bulgaria
+2952,Montenegro,Latvia
+2953,Montenegro,Albania
+2954,Montenegro,Czech Republic
+2955,Montenegro,Finland
+2956,Montenegro,Lithuania
+2957,Montenegro,Estonia
+2958,Montenegro,Slovenia
+2959,Montenegro,Denmark
+2960,Montenegro,Kosovo
+2961,Montenegro,North Macedonia
+2962,Montenegro,Luxembourg
+2963,North Macedonia,United States
+2964,North Macedonia,Italy
+2965,North Macedonia,United Kingdom
+2966,North Macedonia,China
+2967,North Macedonia,Russia
+2968,North Macedonia,Ukraine
+2969,North Macedonia,Iraq
+2970,North Macedonia,North Korea
+2971,North Macedonia,Syria
+2972,North Macedonia,France
+2973,North Macedonia,Germany
+2974,North Macedonia,Netherlands
+2975,North Macedonia,Poland
+2976,North Macedonia,Canada
+2977,North Macedonia,Belgium
+2978,North Macedonia,Türkiye
+2979,North Macedonia,Iceland
+2980,North Macedonia,Sweden
+2981,North Macedonia,Slovakia
+2982,North Macedonia,Israel
+2983,North Macedonia,Iran
+2984,North Macedonia,Hungary
+2985,North Macedonia,Spain
+2986,North Macedonia,Greece
+2987,North Macedonia,Portugal
+2988,North Macedonia,Norway
+2989,North Macedonia,Belarus
+2990,North Macedonia,Moldova
+2991,North Macedonia,Romania
+2992,North Macedonia,Croatia
+2993,North Macedonia,Bulgaria
+2994,North Macedonia,Latvia
+2995,North Macedonia,Albania
+2996,North Macedonia,Czech Republic
+2997,North Macedonia,Finland
+2998,North Macedonia,Lithuania
+2999,North Macedonia,Estonia
+3000,North Macedonia,Slovenia
+3001,North Macedonia,Denmark
+3002,North Macedonia,Kosovo
+3003,North Macedonia,Montenegro
+3004,North Macedonia,Luxembourg
+3005,Luxembourg,United States
+3006,Luxembourg,Italy
+3007,Luxembourg,United Kingdom
+3008,Luxembourg,China
+3009,Luxembourg,Russia
+3010,Luxembourg,Ukraine
+3011,Luxembourg,Iraq
+3012,Luxembourg,North Korea
+3013,Luxembourg,Syria
+3014,Luxembourg,France
+3015,Luxembourg,Germany
+3016,Luxembourg,Netherlands
+3017,Luxembourg,Poland
+3018,Luxembourg,Canada
+3019,Luxembourg,Belgium
+3020,Luxembourg,Türkiye
+3021,Luxembourg,Iceland
+3022,Luxembourg,Sweden
+3023,Luxembourg,Slovakia
+3024,Luxembourg,Israel
+3025,Luxembourg,Iran
+3026,Luxembourg,Hungary
+3027,Luxembourg,Spain
+3028,Luxembourg,Greece
+3029,Luxembourg,Portugal
+3030,Luxembourg,Norway
+3031,Luxembourg,Belarus
+3032,Luxembourg,Moldova
+3033,Luxembourg,Romania
+3034,Luxembourg,Croatia
+3035,Luxembourg,Bulgaria
+3036,Luxembourg,Latvia
+3037,Luxembourg,Albania
+3038,Luxembourg,Czech Republic
+3039,Luxembourg,Finland
+3040,Luxembourg,Lithuania
+3041,Luxembourg,Estonia
+3042,Luxembourg,Slovenia
+3043,Luxembourg,Denmark
+3044,Luxembourg,Kosovo
+3045,Luxembourg,Montenegro
+3046,Luxembourg,North Macedonia
+3047,Georgia,Afghanistan
+3048,Georgia,United States
+3049,Georgia,Uruguay
+3050,Georgia,Italy
+3051,Georgia,United Kingdom
+3052,Georgia,China
+3053,Georgia,Russia
+3054,Georgia,Ukraine
+3055,Georgia,Iraq
+3056,Georgia,North Korea
+3057,Georgia,Syria
+3058,Georgia,France
+3059,Georgia,Germany
+3060,Georgia,Netherlands
+3061,Georgia,Poland
+3062,Georgia,Canada
+3063,Georgia,Belgium
+3064,Georgia,Türkiye
+3065,Georgia,Cuba
+3066,Georgia,Iceland
+3067,Georgia,Sweden
+3068,Georgia,Slovakia
+3069,Georgia,Argentina
+3070,Georgia,Israel
+3071,Georgia,Iran
+3072,Georgia,Hungary
+3073,Georgia,Spain
+3074,Georgia,Greece
+3075,Georgia,Venezuela
+3076,Georgia,Portugal
+3077,Georgia,Norway
+3078,Georgia,Qatar
+3079,Georgia,Belarus
+3080,Georgia,Moldova
+3081,Georgia,Romania
+3082,Georgia,Croatia
+3083,Georgia,Bulgaria
+3084,Georgia,Latvia
+3085,Georgia,Albania
+3086,Georgia,Czech Republic
+3087,Georgia,Finland
+3088,Georgia,Lithuania
+3089,Georgia,Estonia
+3090,Georgia,Slovenia
+3091,Georgia,Denmark
+3092,Georgia,Kosovo
+3093,Georgia,Montenegro
+3094,Georgia,North Macedonia
+3095,Georgia,Luxembourg
+3096,Ghana,Zimbabwe
+3097,Bolivia,Mexico
+3098,Tonga,Philippines
+3099,Tonga,Myanmar
+3100,Tonga,Laos
+3101,Tonga,Indonesia
+3102,Laos,Philippines
+3103,Laos,Myanmar
+3104,Laos,Tonga
+3105,Laos,Indonesia
+3106,Indonesia,Philippines
+3107,Indonesia,Myanmar
+3108,Indonesia,Tonga
+3109,Indonesia,Laos
+3110,Haiti,Afghanistan
+3111,Haiti,DR Congo
+3112,Haiti,Nigeria
+3113,Haiti,Papua New Guinea
+3114,Haiti,Mali
+3115,Haiti,Syria
+3116,Haiti,Palestine
+3117,Haiti,Yemen
+3118,Nepal,United States
+3119,Bangladesh,United States
+3120,Bangladesh,Myanmar
+3121,Palau,China
+3122,Palau,Taiwan
+3123,Senegal,United States
+3124,Senegal,Liberia
+3125,Chad,Sudan
+3126,Zimbabwe,Ghana
+3127,Aruba,United States
+3128,Aruba,Peru
+3129,Panama,Iran
+3130,Central African Republic,Tanzania
+3131,Armenia,Afghanistan
+3132,Armenia,United States
+3133,Armenia,Italy
+3134,Armenia,United Kingdom
+3135,Armenia,China
+3136,Armenia,Russia
+3137,Armenia,Saudi Arabia
+3138,Armenia,Ukraine
+3139,Armenia,Colombia
+3140,Armenia,Switzerland
+3141,Armenia,Egypt
+3142,Armenia,India
+3143,Armenia,Belgium
+3144,Armenia,Türkiye
+3145,Armenia,Iran
+3146,Armenia,Kazakhstan
+3147,Armenia,Azerbaijan
+3148,Armenia,Qatar
+3149,Armenia,Belarus
+3150,Armenia,Uzbekistan
+3151,Armenia,Maldives
+3152,Armenia,Tajikistan
+3153,Armenia,Kyrgyz Republic
+3154,Armenia,Turkmenistan
+3155,Bosnia and Herzegovina,Netherlands
+3156,Djibouti,United States
+3157,Djibouti,South Africa
+3158,Greenland,Bahamas
+3159,Guam,Afghanistan
+3160,Northern Mariana Islands,United States
+3161,Angola,United States
+3162,Angola,Serbia
+3163,Liberia,Senegal
+3164,Marshall Islands,Iran
+3165,Marshall Islands,Oman
